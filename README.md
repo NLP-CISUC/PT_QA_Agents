@@ -20,10 +20,8 @@ The Colab notebooks are as follows:
 * **Dialogflow_KB** - Google Dialogflow agent that creates a knowledge base with either a list of FAQs or a collection of plain text documents and retrieves answers through the Dialogflow API.
 *Implemented for FAQs and Text.*
 
-* **Whoosh_Ques_Search** - Whoosh engine that creates a document per question-answer pair and searches for the document containing the question most similar to the posed one, and retrieves the answer in that same document.
-*Implemented for FAQs.*
-
-* **Whoosh_Ques_Ans_Search** - Whoosh engine that creates a document per question-answer pair and searches for the document containing both the question and answer most similar to the posed question, and retrieves the answer in that same document.
+* **Whoosh_Ques_Ans_Search** - Whoosh engine that creates a document per question-answer pair and searches for the document containing either the most similar question or both the most similar question and answer to the posed question. 
+Retrieves the answer in that same document.
 *Implemented for FAQs.*
 
 * **Whoosh_Highlights** - Whoosh engine that, in a collection of plain text documents, searches the document most similar to the posed question and retrieves as an answer the spans of text from that same document deemed as most similar to the question.
