@@ -1,0 +1,75 @@
+Placa ZTE MF710 - Antes de começar:
+O MEO Internet Móvel é a solução perfeita para levar a internet para onde quer que vá. Poderá aceder ao seu e-mail, navegar na internet, aceder às redes sociais, bem como enviar e receber sms a partir do seu PC.
+Este é o seu guia de instalação rápida, que contém Informação útil para a correta instalação da pen banda larga. 
+
+Placa ZTE MF710 - Para iniciar a instalação é necessário:
+1. Pen de dados MEO
+2. Cartão SIM
+
+Placa ZTE MF710 - Instalar o equipamento:
+Esta é uma pen plug & play. Isto significa que tem apenas que ligar a pen ao PC e acompanhar a instalação, que irá decorrer de forma automática.
+1. Insira o cartão SIM na pen.
+Nota: A sua pen banda larga pode também funcionar como memória externa. Para tal, deve introduzir um cartão de memória microSD (não incluído) na pen, conforme indicado na figura.
+2. Ligue o computador. No caso de computadores portáteis certifique-se que está ligado à corrente, para evitar interromper o processo de instalação.
+3. Após o computador iniciar completamente, ligue a pen a uma porta USB disponível do seu PC.
+4. Após alguns instantes, irá surgir a seguinte janela. Selecione Executar Autorun.exe
+Será instalado um atalho MEO Internet Móvel no ambiente de trabalho e aberto o browser do PC, na página http://m.home/index.asp , solicitando o código PIN do seu cartão SIM.
+Parabéns! Acabou de instalar com sucesso a sua pen internet móvel.
+Nota: No caso do Windows Vista ou do Windows 7, poderá aparecer a janela Controlo da Conta de Utilizador a solicitar autorização para prosseguir com a instalação. Selecione Sim.
+
+Placa ZTE MF710 - Aceder à internet: Sempre que pretender utilizar a sua pen de internet móvel, deve seguir os seguintes passos:
+1. Ligue o seu computador e insira a pen numa porta USB disponível.
+2. Após alguns instantes, o browser do PC irá abrir na página http://198.168.0.1/ index.html#home . Vai ser solicitado que introduza o código PIN do seu cartão SIM. Introduza-o em PIN, e selecione Aplicar.
+Para saber o PIN, deverá raspar a área cinzenta situada no verso do cartão MEO incluído na embalagem da sua pen de banda larga. Existem 3 tentativas para a introdução do PIN. Caso falhe a introdução 3 vezes, é solicitado o PUK do cartão. O código PUK também se encontra no verso do cartão, juntamente com o PIN.
+Caso o browser do PC não abra automaticamente, faça duplo clique no ícone MEO Internet Móvel presente no ambiente de trabalho, ou abra um navegador de internet (browser) e introduza o endereço 192.168.0.1 na barra de endereços, seguido de Enter.
+Se o seu computador não reconhecer a pen:
+- Verifique se tem alguma pen antiga instalada e caso tenha, desinstale-a e reinicie o PC.
+- Utilize outra porta USB disponível;
+- Reinicie o seu computador e volte a inserir a pen;
+- Verifique que o cartão SIM está corretamente inserido;
+3. Irá surgir a seguinte janela. Para iniciar a ligação, clique em Ligar.
+Nota: Pode inibir a ligação à internet quando em roaming em Ligação/Definições 3G, desabilitando a check box Ligar à internet mesmo quando em roaming.
+Aguarde alguns instantes, até que seja estabelecida uma ligação de internet.
+4. Para terminar a ligação, clique em Desligar.
+
+Placa ZTE MF710 - Funcionaliades do software de ligação banda larga móvel:
+O software de ligação MEO Internet Móvel permite-lhe configurar as definições da ligação à rede móvel, gerir os seus contactos e enviar e receber mensagens sms.
+- Tipo de rede Informa o tipo de rede e a força do sinal que está a captar.
+- Estado da ligação Informa se a ligação está ou não estabelecida.
+- Informação - Permite regressar ao ecrã Principal do software de ligação.
+- Informações - Acesso a informações úteis e estatísticas de utilização da placa.
+- SMS Permite criar e ler mensagens sms, bem como gerir os itens enviados.
+- Contactos Permite efetuar a gestão de contactos: consultar, criar, editar e apagar.
+- Definições Acesso a definições da placa.
+- Velocidade de download e upload Velocidade de transferência de informação.
+- Contactos Permite efetuar a gestão de contactos: consultar, criar, editar e apagar.
+
+Placa ZTE MF710 - O Manual do Utilizador completo está disponível em formato eletrónico em: Todos Programas> MEO Internet Móvel>Manual do Utilizador.
+
+Placa ZTE MF710 - Windows 8:
+No sistema operativo Windows 8, a pen é automaticamente reconhecida pelo sistema. Aceda às Definições, na barra de atalhos Windows 8 que surge à direita do ecrã, quando se encosta o cursor ao canto inferior direito do ecrã.
+Em Definições, selecione do ícone de Redes (no exemplo abaixo com indicação de Indisponível).
+Depois, selecione o ícone de Redes Móveis (em Banda larga móvel).
+Carregue Ligar.
+Introduza o seu PIN e selecione Seguinte.
+Aguarde até que a ligação seja estabelecida.
+Verifique em Banda larga móvel a indicação Ligado.
+Quando a pen com um cartão SIM é reconhecida pelo sistema, é apresentado o logotipo junto da indicação de ligação.
+De seguida, é feito o download automático da aplicação MEO Connect. Esta aplicação permite gerir as ligações à internet, através do serviço de banda larga móvel, WiFi e cabo ethernet, transitando de uma ligação para outra, de acordo com a melhor ligação disponível a cada momento.
+Caso a aplicação não seja instalada automaticamente, ou se entretanto tiver sido desinstalada, pode instalá-la clicando na ligação Banda larga móvel e selecionar Obter a aplicação recomendada.
+É aberta a Store do Windows, já com a aplicação MEO Connect selecionada. Clique em Instalar.
+A aplicação MEO Connect fica disponível no ecrã Iniciar.
+
+Placa ZTE MF710 - Para mais informações, ligue 12 030 da rede móvel MEO ou 96 100 00 30 de outras redes. Consulte o custo das chamadas em meo.pt.
+
+Placa ZTE MF710 - Taxa de Absorção Especifica (SAR): O produto está em conformidade com os níveis SAR legalmente previstos. O limite SAR para dispositivos móveis é de 2 W/kg e o valor SAR mais alto para este dispositivo foi de 1.11W/kg.
+
+Placa ZTE MF710 - Declaração de conformidade RoHS:
+Para minimizar o impacto ambiental e assumindo uma maior responsabilidade para com o nosso planeta, o presente documento serve como declaração formal de que o ZTE MF710M, fabricado pela ZTE CORPORATION, está em conformidade com a Directiva 2011/65/UE do Parlamento Europeu --- RUSP
+(Restrição do Uso de Substâncias Perigosas) relativamente às seguintes substâncias: Chumbo (Pb) Mercúrio (Hg) Cadmio (Cd) Crómio Hexavalente (Cr (VI)) Bifenis Polibrominados (PBBs) Éteres Difenis Polibrominados (PBDEs).
+O ZTE MF710M, fabricado pela ZTE CORPORATION, reúne os requisitos da directiva europeia 2011/65/UE.
+
+Placa ZTE MF710 - Eliminação do seu equipamento antigo:
+1.Quando este símbolo do contentor do lixo barrado com uma cruz está afixado num produto significa que o produto está coberto pela Directiva Europeia 2012/19/UE.
+2.Todos os produtos eléctricos devem ser objecto de recolha selectiva de resíduos através da utilização de locais de recolha indicados pelo governo ou pelas autoridades locais.
+3.A correcta eliminação do seu equipamento velho ajudará a evitar potenciais consequências nefastas para o meio ambiente e para a saúde humana.

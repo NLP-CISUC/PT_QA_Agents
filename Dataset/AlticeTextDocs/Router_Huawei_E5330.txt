@@ -1,0 +1,23 @@
+Router Huawei E5330 - Com o seu novo router poderá ter até 10 utilizadores em simultâneo a acederem à internet. 
+Para iniciar a instalação certifique-se de que tem os seguintes elementos:
+- Router
+- Cartão SIM MEO
+
+Router Huawei E5330 - Instalar equipamento: Instale o cartão SIM no seu router de acordo com as seguintes imagens.
+
+Router Huawei E5330 - Aceder à internet:
+1. Verifique no interior da tampa de bateria, a chave de rede (Wi-Fi Key) e o nome do seu router que irá aparecer nas Ligações de rede Wi-Fi (SSID). Irá precisar nos próximos passos desta informação.
+Ligue o router, pressionando durante alguns segundos o botão  até a luz indicadora acender.
+2. No computador, procure nas ligações de rede sem fios a ligação com o SSID do seu router. Selecione-a e clique em Ligar. 
+3. Na janela seguinte, insira a chave de segurança da rede (Wi-Fi Key) que se encontra no interior da tampa de bateria e confirme-a. De seguida, clique em OK.
+4. Aguarde enquanto é estabelecida a ligação com o seu router.
+5. Após ter sido estabelecida a ligação, e ao abrir um browser de internet, irá surgir a seguinte página.
+Insira o código PIN do seu cartão SIM. Se numa próxima utilização não quiser inserir novamente o PIN, selecione a opção “Desativar verificação de PIN”. De seguida, clique em Aplicar. 
+6. Após alguns momentos o router encontra-se ligado á internet.
+7. Para consultar as opções “Estatísticas”, “SMS”, “Verificar Atualizações” ou “Definições” será necessário validar-se como administrador do router. Deve utilizar “Nome do utilizador”: “admin” e “Palavra-passe”: “admin”. Clique em Iniciar Sessão.
+8. A partir de agora, o seu acesso à internet já se encontra configurado.
+9. Pode aceder à página de configuração do router sempre que o pretenda, através do endereço http://192.168.8.1 na barra de endereços do browser.
+
+Router Huawei E5330 - Taxa de Absorção Especifica (SAR): O produto está em conformidade com os níveis SAR legalmente previstos.
+
+Router Huawei E5330 - Para mais informações, ligue 12 030 da rede móvel MEO ou 96 100 00 30 de outras redes. Consulte o custo das chamadas em meo.pt.

@@ -1,0 +1,217 @@
+MEOBox Cisco ISB2201 - Requisitos - Para usar esta MEOBox é necessário:
+- Ligação à Internet
+- Router
+
+MEOBox Cisco ISB2201 - Painel Frontal:
+1. LINK - LED verde: Indica se o equipamento está ligado à rede.
+2. HD - LED azul: Indica que o programa que está a ser transmitido é em Alta Definição.
+3 REC - LED vermelho: Indica que está a decorrer uma gravação.
+4. Sensor Infravermelhos - Recebe o sinal infra-vermelho do comando. O sensor está por trás do painel frontal.
+5. Botão Ligar/Stand by - Muda entre os modos “ligado”, “stand by ativo” e “stand by passivo”. No modo ligado apresenta a cor verde; no modo de stand by ativo apresenta a cor laranja e no modo stand by passivo, a cor vermelha. O stand by passivo é o modo que permite o menor consumo de energia quando o equipamento não está a ser utilizado.
+6. USB - Permite a ligação a dispositivos USB compatíveis (funcionalidade determinada por Software).
+
+MEOBox Cisco ISB2201 - Painel Traseiro:
+1. SCART OUT - Ligação do cabo SCART a um televisor, vídeogravador ou monitor.
+2 IR (infravermelhos) - Ligação dum sensor sensor exterior de IR - Infra-vermelhos (não fornecido).
+3. Analog Stereo (L/R) - Ligação áudio ao televisor com entradas estéreo analógicas ou ao amplificador estereo através de cabos RCA.
+4. Composite - Ligação de vídeo composto para um televisor ou para outro equipamento, como um videogravador.
+5. S-Video - Ligação de S-Video para um televisor SDTV ou para outro equipamento.
+6. Optical Digital Audio - Ligação de cabo óptico para enviar áudio digital para um sistema de amplicação ou outro dispositivo áudio.
+7. HDMI - Ligação a um televisor HDTV com interface HDMI™ (High Definition Multimedia Interface).
+8. Ethernet - Ligação a um router com interface Ethernet.
+9 Botão Reset - Apaga todas as configurações feitas, substituindo pelas que vêm de fábrica.
+10. Ficha alimentação - Ligação ao transformador.
+11. Interruptor - Permite ligar e desligar o equipamento sem ter de tirar o cabo do transformador.
+
+MEOBox Cisco ISB2201 - Instalação - Para ligar corretamente a MEOBox, siga os seguintes passos:
+1. Verifique se o seu televisor é HD (Alta Definição) ou SD (Definição Normal). Se tiver dúvidas, consulte o manual do seu televisor ou a página 24 deste manual para mais informações.
+2. Ligue a interface Ethernet da MEOBox ao Router através do cabo de rede fornecido.
+3. Proceda da seguinte forma para efetuar as ligações ao televisor:
+- Se vai ligar a um televisor HD, consulte o diagrama de ligações na página 9;
+- Se vai ligar a um televisor SD consulte o diagrama de ligações na página 12.
+4. Ligue a MEOBox e o televisor a uma tomada de eletricidade que não seja controlada por um interruptor.
+Nota: Utilize apenas o transformador de energia fornecido com a sua MEOBox.
+5. Para ligar a sua MEOBox, leia as instruções da página 17.
+
+MEOBox Cisco ISB2201 - Ligações a um televisor HD (alta-definição):  Para utilizar a MEOBox com uma televisão HD, tem de utilizar uma das seguintes ligações para que possa ver conteúdos de Alta Definição (HD). Consulte o manual da sua televisão e os diagramas de ligações deste manual para mais informações.
+Nota: Os nomes das interfaces na televisão e na MEOBox podem ter ligeiras diferenças.
+HDMI - A interface HDMI permite ambas as ligações de vídeo e áudio digital. Consulte o exemplo do diagrama de ligações na página 10.
+DVI - A interface HDMI permite ligar a uma televisão HD com entrada DVI (Digital Visual Interface). Se a sua televisão HD tiver uma interface DVI vai necessitar ter um cabo ou adaptador HDMI-to-DVI. Neste caso tem de ligar as interfaces áudio à parte através dum conjunto de cabos áudio analógico.
+Nota: A porta DVI na televisão tem de suportar HDCP (high-bandwidth digital content protection). Consulte o exemplo do diagrama de ligações na página 11.
+
+MEOBox Cisco ISB2201 - Ligação a um televisor HD com HDMI: Esta situação ilustra uma instalação típica de uma MEOBox a um televisor HD.
+Importante:
+- Com conteúdos protegidos contra cópia, a qualidade da imagem poderá ser reduzida se a MEOBox não se encontrar diretamente ligado ao televisor. Assim, ligue a sua MEOBox diretamente ao seu televisor e não através de outro equipamento.
+- A MEOBox tem uma proteção contra sujidade na ficha HDMI. Assegure-se que remove a Proteção antes de ligar o cabo.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação a um televisor HD com HDMI
+- 1 cabo HDMI-to-HDMI
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligação a um televisor HD com DVI:
+Importante
+- A porta DVI na televisão tem de suportar HDCP (high-bandwidth digital content protection).
+- Necessita fazer a ligação áudio à parte.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação a um televisor HD com DVI:
+- 1 cabo HDMI-to-DVI ou 1 cabo HDMI-to-HDMI e 1 adaptador HDMI/DVI;
+- 1 conjunto de cabos áudio L (Left) e R (Right) (RCA).
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligações a um televisor SD: Para utilizar a MEOBox com um televisor SD, tem de utilizar uma das seguintes ligações. Consulte o manual do seu televisor e os diagramas de ligações deste manual para mais informações.
+Nota: Os nomes das interfaces no televisor e na MEOBox podem ter ligeiras diferenças.
+SCART OUT - A interface SCART OUT permite a ligação áudio e vídeo a televisores SD. Consulte o exemplo de ligação na página 13.
+S-Video - A interface S-Video Out fornece uma qualidade de vídeo óptima para televisores SD. Para o sinal de áudio é necessário recorrer a outra ligação à parte através dum conjunto de cabos áudio analógico. Consulte o exemplo de ligação na página 14.
+Composite - A interface Composite fornece o sinal de vídeo para televisores SD. Para o sinal de áudio é necessário recorrer a outro tipo de ligação à parte através dum conjunto de cabos áudio analógico. Consulte o exemplo de ligação na página 15.
+
+MEOBox Cisco ISB2201 - Ligação a um televisor SD com SCART: Esta situação ilustra uma instalação típica de uma MEOBox a um televisor SD. A ligação SCART oferece áudio e vídeo no mesmo cabo.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação a um televisor SD com SCART:
+- 1 cabo SCART.
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligação a um televisor SD com S-Vídeo: Esta situação ilustra uma instalação através de S-Video, um formato padrão de transmissão de vídeo analógico. Para além do cabo de S-Vídeo é necessário efetuar a ligação áudio em separado através de um conjunto de cabos RCA (branco/vermelho). Em alternativa, poderá usar uma ligação de áudio digital. Para mais informação, consulte a página 16.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação a um televisor SD com S-Vídeo:
+- 1 cabo S-Vídeo;
+- 1 conjunto de cabos áudio L (Left) e R (Right) (RCA).
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligação a um televisor SD com Vídeo Composto: Esta situação ilustra uma instalação através de vídeo composto, um formato padrão de transmissão de vídeo analógico. Para além do cabo de vídeo (amarelo) é necessário efetuar a ligação áudio em separado através de um conjunto de cabos RCA (branco/vermelho). Em alternativa, poderá usar uma ligação de áudio digital. Para mais informação, consulte a página 16.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação a um televisor SD com Vídeo Composto:
+- 1 cabo vídeo RCA;
+- 1 conjunto de cabos áudio L (Left) e R (Right).
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligação de áudio digital: Para obter a melhor qualidade de áudio possível, ligue o descodificar a qualquer amplificador digital ou kit de home cinema.
+Notas
+- Esta ligação não é necessária caso esteja a usar uma ligação HDMI.
+- Alguns cabos ópticos são fornecidos com proteções contra sujidade. Assegure-se que remove as proteções antes de ligar o interface de áudio digital.
+
+MEOBox Cisco ISB2201 - Cabos utilizados para Ligação de áudio digital: 
+- 1 cabo óptico áudio digital.
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+MEOBox Cisco ISB2201 - Ligar a MEOBox:
+1. Ligue o equipamento à corrente elétrica com o cabo fornecido.
+Importante - Quando ligado à corrente elétrica pela primeira vez o equipamento poderá acender e apagar os LEDs durante alguns minutos. Não desligue o equipamento durante este processo.
+Nota: A MEOBox só funcionará com o comando se fizer o processo de arranque completo.
+2. Ligue o equipamento no interruptor no painel traseiro.
+3. Ligue o seu televisor.
+4. Selecione a ligação correta no seu televisor (SCART ou HDMI).
+5. Aguarde pela imagem no seu televisor vinda do equipamento.
+
+MEOBox Cisco ISB2201 - Em caso de falha técnica:
+Se o equipamento não finalizou o processo de arranque com sucesso proceda da seguinte forma:
+1. Se visualizar uma mensagem a pedir para confirmar uma atualização de software, pressione a tecla no comando.
+2. O software irá ser descarregado para o equipamento. Este processo poderá demorar alguns minutos (aproximadamente 20 minutos).
+3. Quando finalizar o descarregamento do software o equipamento reiniciar-se-á automaticamente.
+Nota: Caso tenha questões técnicas relativas à MEOBox, por favor contacte o apoio da PT através do número 16 209.
+
+MEOBox Cisco ISB2201 - Colocação de pilhas no Comando: São necessárias 2 pilhas para o Comando (Tipo AAA 1.5V, incluídas). Insira as pilhas da seguinte forma:
+1. Na parte de trás do Comando, puxe a tampa da pilhas para baixo libertando a patilha de segurança.
+2. Inserir as pilhas uma por cada compartimento. Respeite a polaridade (+/-) das pilhas. A colocação correta está no fundo do compartimento das pilhas no Comando.
+3. Insira a tampa primeiro em baixo e depois pressione até que a tampa fique novamente na sua posição correta.
+
+MEOBox Cisco ISB2201 - Como usar o comando: 
+O comando envia, através de sinais infravermelhos, comandos para a MEOBox para executar instruções. A MEOBox recebe esses sinais por um sensor que está no painel frontal.
+De modo a que a sua MEOBox possa receber esses sinais corretamente deverá apontar o comando para o painel frontal do equipamento.
+Se desejar usar um só comando poderá programar o comando da sua MEOBox para funcionar também com o seu televisor.
+Normalmente o comando detecta automaticamente o seu televisor e sincroniza-se automaticamente. Se não for possível, poderá programá-lo manualmente para funcionar com o seu televisor.
+
+MEOBox Cisco ISB2201 - Programação Automática:
+1. Ligue a TV.
+2. Pressione o botão no controlo remoto.
+3. Pressione “0 0 1” (LED “TV” pisca duas vezes para confirmação) - tem 10 segs para esta operação de introdução de código
+4. Direccione o controlo remoto para a TV. Pressione até a TV se desligar.
+Nota: Isto pode demorar alguns minutos, durante os quais o LED “TV” continuará a piscar.
+5. Confirme a selecção pressionando
+6. Pressione para ligar novamente a TV.
+7. Verifique que o controlo remoto funciona correctamente mudando o nível de som.
+Notas:
+- Se não conseguir mudar o nível de som, repita esta operação. De cada tentativa, o comando tentará uma nova frequência.
+- Se não conseguir finalizar a programação, tente programar manualmente.
+
+MEOBox Cisco ISB2201 - Programação Manual: Introduzindo o código da marca
+1. Verifique qual o fabricante da sua TV. O mesmo código pode ser usado por vários fabricantes.
+2. Pressione o botão TV no comando remoto.
+3. Introduza o código de três digitos correspondentes à marca da sua TV. O LED “TV” irá piscar duas vezes para confirmar a selecção.
+4. Direccione o controlo remoto para a sua TV. Pressione até que a sua TV se desligue.
+Nota: Esta operação poderá demorar alguns segundos durante os quais o LED “TV” irá piscar.
+5. Se a sua TV se desligar, volte a ligar e verifique se outras funções também funcionam. Se as outras funções estiverem a funcionar correctamente terminou a programação manual. Caso contrário, repita as operações desde o ponto 2
+Nota: Escreva a marca do código que funciona com a sua TV neste manual, para que a possa encontrar mais rapidamente no futuro.
+
+MEOBox Cisco ISB2201 - Aceder ao Menu Principal:
+1. Verifique que a MEOBox está ligada. no controlo remoto para ligar o televisor. O comando deve estar em modo
+2. Pressione a tecla TV. Se não tiver programado o comando, use a tecla de On/Off no controlo remoto do seu televisor ou o botão de ligar o televisor para o ligar.
+3. Pressione a tecla para trocar para o canal AV correto. O menu principal só funciona no canal AV selecionado.
+4. Pressione a tecla para trocar para modo da MEOBox. Agora pode controlar a sua MEOBox com o comando (apenas depois da programação).
+5. Pressione a tecla para aceder ao menu do televisor.
+Notas:
+- No menu principal, em “Ajuda”, haverá indicações para o comando, navegação, estrutura de menus, e dicas, assim como respostas a perguntas recorrentes.
+- A Proteção dos menores é uma das preocupações do fornecedor do serviço. Afim de saber como bloquear conteúdos não adequados contacte o Suporte Técnico 16 209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http://www.meo.pt.
+
+MEOBox Cisco ISB2201 - Navegar nos Menus:
+1. Pressione a tecla para aceder ao menu principal. Com as setas, poderá mover-se pelos itens dos menus.
+2. Confirme a Seleção pressionando.
+3. Utilize as teclas de direção para percorrer nos diferentes menus e sub-menus. O menu selecionado está destacado com uma cor específica.
+4. Pressione a tecla para confirmar a Seleção ou o item marcado ou dados que tenha inserido em caixas de texto.
+Nota: Com a tecla poderá voltar atrás na estrutura de menus.
+
+MEOBox Cisco ISB2201 - Colocar o equipamento em modo “Stand by”:
+1. Pressione a tecla para sair do menu e voltar a visualizar o canal selecionado.
+2. Pressione a tecla para colocar o equipamento em modo “Stand by”. O LED Verde passará a Vermelho e apagar-se-á ao fim de 5 segundos.
+
+MEOBox Cisco ISB2201 - Resolução de problemas:  Se a MEOBox não tiver o comportamento esperado, siga cuidadosamente os seguintes passos para resolver o eventual problema. Se ainda assim precisar de ajuda contacte a assistência técnica do seu operador.
+
+MEOBox Cisco ISB2201 - Sem imagem: 
+- Verifique se todos os cabos estão corretamente ligados.
+- Se o cabo de energia está ligado entre a MEOBox e uma tomada de energia. Verifique se o interruptor ON/OFF no painel traseiro está na posição de ligado (ON).
+- Verifique que a energia está ligada ao televisor.
+- Se a sua instalação inclui um videogravador, verifique se este está corretamente ligado à MEOBox.
+- Verifique se selecionou a entrada de vídeo correta no seu televisor ou home cinema.
+- Verifique se a MEOBox está configurada com as definições corretas do seu televisor tais como resolução e tipo de TV.
+
+MEOBox Cisco ISB2201 - Sem cor ou cor incorreta:
+- Certifique-se que o programa está a ser transmitido a cores.
+- Ajuste os controlos de cor da sua televisão.
+
+MEOBox Cisco ISB2201 - Sem som:
+- Verifique se o volume está ligado.
+- Verifique se a função mute (sem som) está ativada.
+- Verifique se está seleccionada a entrada de som correta no seu kit home cinema.
+- Se a sua instalação inclui um videogravador verifique se este está corretamente ligado à MEOBox.
+
+MEOBox Cisco ISB2201 - Evitar o efeito “Burn-In”:
+Imagens, tipo títulos luminosos, logótipos dos canais televisivos, ou quaisquer outras imagens fixas podem provocar manchas no ecrã do televisor ao fim de algum tempo. A este efeito designa-se como “burn-in”. Consulte o manual fornecido com o seu televisor HD para mais informações.
+ATENÇÃO: Evite o efeito “burn-in”. Não exibir as mesmas imagens fixas no seu televisor HD por longos períodos de tempo.
+
+MEOBox Cisco ISB2201 - O que é a televisão digital? 
+A Televisão Digital (DTV) é um grande passo em frente no desenvolvimento tecnológico comparado com a Televisão Analógica que conhecemos desde os anos 40. A televisão Digital é transmitida e visualizada através de codificação digital semelhante ao modo de funcionamento dos PCs. Por utilizar a tecnologia digital não existe variação de qualidade de imagem e som desde a origem até ser transmitido na televisão. As imagens são sempre visualizadas em alta qualidade e sem interferências habituais na transmissão analógica. Outra vantagem da televisão digital é disponibilizar também som digital, o conhecido sistema surround com tecnologia Dolby™ Digital que tão bem conhecemos dos cinemas.
+
+MEOBox Cisco ISB2201 - O que é a televisão de Alta Definição (HDTV)?
+A televisão de Alta Definição (High-definition television - HDTV) consiste em imagens que são compostas por milhões de pixeis muito mais pequenos e mais próximos do que os das televisões antigas de definição standard (Standard-definition television - SDTV). As HDTV conseguem reproduzir imagens com cinco a seis vezes maior detalhe do que as SDTV, o que se traduz em imagens mais realistas. Os programas em SDTV podem ser visualizados em televisões HDTV.
+
+MEOBox Cisco ISB2201 - O que é a televisão SD (Standard-Definition)?
+Standard-definition television (SDTV) trata-se da televisão de definição padrão.
+
+MEOBox Cisco ISB2201 - Todos os canais são transmitidos em HD?
+Muitos canais de TV estão a transmitir sinais digitais. No entanto, a transmissão de um sinal digital não significa transmitir em HD. A maioria das estações televisivas, oferecem conteúdos HD (por exemplo, AXN, ABC, NBC e Fox).
+
+MEOBox Cisco ISB2201 - Por que razão nem todos os programas são em HD?
+Um programa em HD têm de ser captado no formato HD e deverá ser transmitido também em formato HD. Ter um sistema de HDTV não significa que tudo o que você vê será visto em Alta Definição. Recebendo o sinal de uma fonte digital também não significa que ele é de Alta Definição.
+
+MEOBox Cisco ISB2201 - Qual a diferença entre ecrã standard e ecrã panorâmico?
+O tipo de ecrã, standard ou panorâmico, determina o modo como a MEOBox mostra as imagens no ecrã. O formato da imagem para uma HDTV é a combinação entre o aspect ratio e a resolução do ecrã e é diferente entre os ecrãs standard e os ecrãs panorâmicos.
+
+MEOBox Cisco ISB2201 - O que é o Aspect Ratio?
+O aspect ratio é a relação entre a altura e a largura do ecrã da televisão.
+
+MEOBox Cisco ISB2201 - O que é a resolução do Aceder ao Menu Principal ecrã e a taxa de refrescamento?
+A resolução do ecrã indica a quantidade de detalhe de uma imagem. A resolução é identificada pelo número de linhas que o ecrã consegue mostrar. As técnicas que a televisão utiliza para “pintar” a imagem no ecrã são chamadas de progressiva ou enterlaçada. Com o método progressivo cada pixel é refrescado no ecrã em simultâneo. O método enterlaçado implica que os pixeis são refrescados em alternância - primeiro as linhas ímpares depois as linhas pares.
+Nas definições avançadas selecione o modo adequado à sua televisão. Consulte o manual da sua televisão para escolher o modo apropriado (576i, 576p, 720p, 1080i). Por exemplo, a resolução 1080i indica que o ecrã consegue mostrar 1080 linhas numa televisão com refrescamento enterlaçado, e a 720p indica que o ecrã mostra 720 linhas numa televisão com refrescamento progressivo.
+
+MEOBox Cisco ISB2201 - Uma televisão standard (SDTV) tem um aspect ratio de 4x3. O ecrã tem 4 unidades de largura para 3 de altura. Uma imagem de resolução 576p ou 576i consegue ser visualizada neste tipo de ecrã.
+
+MEOBox Cisco ISB2201 - Uma televisão panorâmica de alta-definição (HDTV) tem um aspect ratio de 16x9. O ecrã tem 16 unidades de largura para 9 de altura. Uma imagem de resolução 720p ou 1080i consegue ser visualizada neste tipo de ecrã.

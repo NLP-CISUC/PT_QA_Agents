@@ -1,0 +1,151 @@
+MEOBox Cisco CIS2000 - Características do Painel Frontal:
+REC - LED Vermelho - indica quando estiver a gravar em sistema partilhado com outros equipamentos em casa (disponível futuramente).
+SIG - LED Amarelo - indica que a ligação de rede está a funcionar.
+HD - LED Azul - Indica que o canal está em HD (Alta Definição).
+IR Sensor - Indica que está a receber sinais infravermelhos do controlo remoto.
+On/Standby - Muda entre o modo “On” e “Standby”. A indicação de ligado é um círculo que alterna entre 2 cores - círculo Verde quando está ligada e círculo Vermelho quando está em modo “Standby”.
+
+MEOBox Cisco CIS2000 - Conectores no Painel Traseiro:
+HDMI - Ligação à TV “HD Ready”
+USB - Ligação a outros equipamentos (disponível futuramente)
+Ethernet - Ligação à rede IPTV (normalmente ao Home Gateway)
+SCART output - Ligação a TV, Gravador de Vídeo ou monitor
+Audio Out (L/R) - Ligação com cabos RCA para ligação de Áudio analógico à TV
+Composite Video output - Ligação Composta para ligação à TV
+Reset button - Reinicia o equipamento
+Optical stereo - Ligação com cabo óptico para ligação a um sistema de som digital
+IR Extender output - Ligação a um extensor de infra-vermelhos
+Power supply output- Ligação à corrente eléctrica
+
+MEOBox Cisco CIS2000 - Na caixa deste equipamento terá:
+- Equipamento CIS2000
+- Cabo para ligação à corrente eléctrica
+- Manual do utilizador
+- Cabo Ethernet
+- Comando Remoto e pilhas
+- Cabo Scart
+- Cabo HDMI
+Se não tiver algum destes componentes, contacte o Suporte Técnico 16209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http://www.meo.pt.
+Nota: Eventualmente poderá ter mais componentes dentro da caixa do equipamento.
+
+MEOBox Cisco CIS2000 - Ambiente Operacional: O equipamento CIS2000 foi desenhado para funcionar em ambientes sem humidade, com temperaturas entre 5ºC e 40ºC. Deverá manter uma distância de 10 cm em cima e ao lado do equipamento.
+Advertência: Nunca expor o equipamento a fontes de calor nem directamente à luz do sol. Proteja o equipamento do Pó, Humidades, Vapor ou produtos nocivos.
+
+MEOBox Cisco CIS2000 - Instalação rápida:
+1. Ligar o equipamento ao Home Gateway com um cabo Ethernet.
+2. Ligar o equipamento à TV “HD ready” com um cabo HDMI.
+3. Ligar o equipamento à corrente eléctrica.
+
+MEOBox Cisco CIS2000 - Colocação de pilhas no Comando: São necessárias 2 pilhas para o Comando (Tipo AAA 1.5V, incluídas). Insira as pilhas da seguinte forma:
+1. Na parte de trás do Comando, puxe a tampa da pilhas para baixo libertando a patilha de segurança.
+2. Inserir as pilhas uma por cada compartimento. Respeite a polaridade (+/-) das pilhas. A colocação correta está no fundo do compartimento das pilhas no Comando.
+3. Insira a tampa primeiro em baixo e depois pressione até que a tampa fique novamente na sua posição correta.
+
+MEOBox Cisco CIS2000 - Ligar o Equipamento:
+1. Ligue o equipamento à corrente eléctrica com o cabo fornecido.
+Importante: Quando ligado à corrente eléctrica pela primeira vez o equipamento poderá acender e apagar os LED’s durante alguns minutos. Não desligue ou ligue o equipamento enquanto todos os LED’s não estejam apagados (excepto o LED da ligação à internet).
+2. Ligue o equipamento no botão frontal.
+3. Ligue a sua TV.
+4. Seleccione a ligação correcta na sua TV (Scart ou HDMI).
+5. Aguarde pela emissão na sua TV vinda do equipamento.
+
+MEOBox Cisco CIS2000 - Em caso de falha técnica:
+1. Pressione o botão "OK" no Controlo Remoto se vir uma mensagem a pedir para confirmar uma actualização de software.
+2. O software irá ser descarregado para o equipamento.
+3. Quando finalizar o descarregamento do software o equipamento reiniciar-se-á
+automaticamente.
+Nota: Se o problema persistir, por favor contacte o Suporte Técnico 16209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http://www.meo.pt.
+
+MEOBox Cisco CIS2000 - Como usar a ligação SCART: A ligação SCART permite a ligação à sua TV, Monitor ou Vídeo Gravador.
+
+MEOBox Cisco CIS2000 - Localizar o conector SCART: O conector SCART está no painel traseiro do equipamento. Verifique que o introduz na posição correcta. Utilize o cabo SCART e ligue ao conector SCART na TV ou Vídeo Gravador.
+
+MEOBox Cisco CIS2000 - Como usar a ligação de Vídeo Composto: Vídeo Composto é um formato standard de vídeo. Para receber áudio juntamente com o vídeo, terá que ligar a uma TV, um amplificador, ou a um descodificador Áudio Digital o conector apropriado no painel traseiro do equipamento.
+
+MEOBox Cisco CIS2000 - Localizar os conectores de Vídeo Composto: Os conectores estão localizados no painel traseiro do equipamento (conforme figura). Ligue o cabo à saída de Vídeo Composto do equipamento. Ligue à TV, VCR, ou monitor a outra extremidade. Use um cabo RCA para ligar o Áudio à sua TV ou semelhante.
+Ligue o cabo de Vídeo Composto na saída de Vídeo Composto do equipamento. Ligue a outra extermidade à entrada de Vídeo Composto do seu equipamento. Utilize um cabo RCA para ligar o som a um equipamento de som externo (sistema de som digital por exemplo).
+
+MEOBox Cisco CIS2000 - Como usar a ligação de Áudio Digital: Para uma melhor qualidade áudio, ligue o seu equipamento a um sistema de som digital. A ligação é feita com um cabo óptico para Áudio.
+Nota: Esta ligação não é necessária se usar a ligação HDMI.
+
+MEOBox Cisco CIS2000 - Localizar a ligação de Áudio Digital: A ligação de Áudio Digital (óptico) está localizada no painel traseiro do equipamento (conforme figura).
+Ligue o conector óptico do seu sistema de Áudio directamente ao conector óptico do equipamento.
+Nota: Alguns cabos ópticos trazem protecção contra o Pó. Deverá remover os mesmos antes de ligar os cabos.
+
+MEOBox Cisco CIS2000 - Como usar a ligação USB: O equipamento CIS2000 tem uma ligação USB.
+Nota: A ligação USB será utilizada futuramente para ligação de equipamentos compatíveis.
+
+MEOBox Cisco CIS2000 - Localizar a ligação USB: A ligação USB está localizada no painel traseiro do equipamento por baixo da ligação Ethernet (conforme figura).
+
+MEOBox Cisco CIS2000 - Como usar o Controlo Remoto: O controlo remoto envia sinais infravermelhos para o equipamento.
+O equipamento recebe esses signais por um sensor que está no painel frontal, como tal, deverá sempre apontar o controlo remoto para o painel frontal do equipamento.
+
+MEOBox Cisco CIS2000 - Como usar o Controlo Remoto para a TV: Se desejar usar um só comando poderá programar o controlo remoto Meo para funcionar também com a TV. Normalmente o controlo remoto detecta automaticamente a sua TV e sincronizase autonomamente. Se não for possível, poderá programar manualmente o controlo remoto para funcionar com a sua TV.
+
+MEOBox Cisco CIS2000 - Programação do Controlo Remoto:
+1. Ligue a TV.
+2. Pressione o botão no controlo remoto.
+3. Pressione “0 0 1” (LED “TV” pisca duas vezes para confirmação) - tem 10 segs para esta operação de introdução de código
+4. Direccione o controlo remoto para a TV. Pressione até a TV se desligar.
+Nota: Isto pode demorar alguns minutos, durante os quais o LED “TV” continuará a piscar.
+5. Confirme a selecção pressionando
+6. Pressione para ligar novamente a TV.
+7. Verifique que o controlo remoto funciona correctamente mudando o nível de som.
+Notas:
+- Se não conseguir mudar o nível de som, repita esta operação. De cada tentativa, o comando tentará uma nova frequência.
+- Se não conseguir finalizar a programação, tente programar manualmente.
+
+MEOBox Cisco CIS2000 - Programação Manual: Introduzindo o código da marca
+1. Verifique qual o fabricante da sua TV. O mesmo código pode ser usado por vários fabricantes.
+2. Pressione o botão TV no comando remoto.
+3. Introduza o código de três digitos correspondentes à marca da sua TV. O LED “TV” irá piscar duas vezes para confirmar a selecção.
+4. Direccione o controlo remoto para a sua TV. Pressione até que a sua TV se desligue.
+Nota: Esta operação poderá demorar alguns segundos durante os quais o LED “TV” irá piscar.
+5. Se a sua TV se desligar, volte a ligar e verifique se outras funções também funcionam. Se as outras funções estiverem a funcionar correctamente terminou a programação manual. Caso contrário, repita as operações desde o ponto 2
+Nota: Escreva a marca do código que funciona com a sua TV neste manual, para que a possa encontrar mais rapidamente no futuro.
+
+MEOBox Cisco CIS2000 - Chamar o Menu Principal:
+1. Se os LED's no painel estiverem estáveis (finalizou o processo de arranque), então pressione o botão para ligar.
+2. Pode optar por ver o canal ou seguir as instruções no ecrã.
+Nota:
+- No menu principal, em "Ajuda", haverá indicações para o controlo remoto, navegação,
+estrutura de menus, e dicas, assim como respostas a perguntas recorrentes.
+
+MEOBox Cisco CIS2000 - Navegar nos Menus:
+1. Pressione para aceder ao menu principal. Com as setas poderá mover-se pelos itens dos menus.
+2. Confirme a seleção pressionando.
+3. Usando as setas, navegue pelos itens do menu. O menu seleccionado está destacado com uma cor específica.
+4. Pressione para confirmar a seleção ou o item marcado ou dados que tenha inserido em caixas de texto.
+Nota: Com o botão poderá voltar atrás na estrutura de menus.
+
+MEOBox Cisco CIS2000 - Colocar o equipamento em modo “Standby”: 
+1. Pressione para sair do menu. Estará a ver a emissão do canal seleccionado.
+2. Pressione para colocar o Equipamento em modo “Standby”. O LED Verde passará a Vermelho e apagar-se-á ao fim de 5 segundos.
+3. Pressione o botão TV para mudar para modo TV.
+4. Pressione para colocar a sua TV em modo “Standby”. Se não programou o comando do
+equipamento para controlar a sua TV, deverá usar o botão correspondente no comando
+da sua TV.
+
+MEOBox Cisco CIS2000 - Efectuar o restart do equipamento: 
+O botão Reset, localizado no painel traseiro do equipamento, permite efectuar o restart do equipamento.
+Para efectuar o restart do equipamento:
+1. Confirme que está no menu principal.
+2. Pressione o botão Reset durante 5 segundos. Verá uma mensagem relacionada com o restart na TV.
+3. Siga as instruções que apareçam na sua TV.
+
+MEOBox Cisco CIS2000 - Os LED no painel frontal não ligam; sem energia eléctrica - O cabo de corrente eléctrica poderá não estar ligado correctamente -- Ligue o cabo de corrente eléctrica correctamente.
+
+MEOBox Cisco CIS2000 - Não tem imagem na sua TV - O equipamento está em modo “Standby” -- Ligue o equipamento pressionado o botão “On” ou o botão no controlo remoto; OU - Não existe ligação entre o equipamento e a TV por cabo SCART -- Ligue o cabo SCART correctamente.
+
+MEOBox Cisco CIS2000 - Não tenho som - O cabo de áudio não está correctamente ligado -- Verifique o cabo de áudio; OU - O volume está no nível 0 -- Aumente o som; OU - O volume está desligado -- Pressione para religar o volume.
+
+MEOBox Cisco CIS2000 - O controlo remoto não funciona - O controlo remoto não está direccionado para o equipamento -- Direccione o controlo remoto para o painel frontal do equipamento; OU As pilhas estão sem carga ou estão colocadas incorrectamente -- Substitua as pilhas ou coloque-as de forma correcta.
+
+MEOBox Cisco CIS2000 - Os filmes do Vídeo Clube têm fraca qualidade de imagem - Estão protegidos por cópia e a ligação à TV passa por um DVD ou VCR -- Ligue a TV directamente ao equipamento.
+
+MEOBox Cisco CIS2000 - Assistência ao Cliente: Se tiver alguma questão sobre o seu equipamento CIS2000, por favor contacte o Suporte Técnico 16209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http:// www.meo.pt.
+Tenha os dados do seu equipamento consigo quando contactar o Suporte Técnico. Os dados do seu equipamento estarão na parte de baixo do equipamento.
+Se tiver problemas com a ligação do equipamento ao sistema, por favor contacte o Suporte Técnico 16209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http:// www.meo.pt.
+
+MEOBox Cisco CIS2000 - Manutenção: O equipamento CIS2000 não requer nenhuma manutenção. Limpe o equipamento CIS2000 com panos secos não estáticos. Use produtos não abrasivos.
+Alerta: Evite panos húmidos! Evite produtos abrasivos ou detergente! Poderá danificar o equipamento.
