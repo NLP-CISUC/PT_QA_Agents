@@ -2,7 +2,7 @@
 
 This repository includes the implementations of several alternatives to the creation of conversational agents, fully configured to receive either a list of FAQs or a collection of plain text documents and answer questions related to the given domain, in Portuguese.
 
-The alternatives include an NLU platform, Google Dialogflow, an IR-based approach, text search engine Whoosh, and two types of state-of-the-art transformer-based language models, namely BERT and answer-generating GPT-2.
+The alternatives include an NLU platform, Google Dialogflow, an IR-based approach, text search engine Whoosh, two types of state-of-the-art transformer-based language models, namely BERT and answer-generating GPT-2, and Google's Multilingual Universal Sentence Encoder trained for QA.
 For every alternative there is at least one configuration, with each configuration being implemented in a different Google Colab notebook.
 
 All configurations receive as input two files: 
@@ -50,3 +50,5 @@ The document deemed as most similar is then used as context in Portuguese-cased 
 * **USE-QA** - Universal Sentence Encoder Q&A Retrieval model that computes the vector representations of a list of sentence-context pairs, with the context being the text surrounding the sentence. We define the sentence as the question from a question-answer pair and the respective context as the whole pair. Such representations are then stored in a simpleneighbors index. Upon receiving a question, USE-QA computes its vector representation, later used to query the previously created index.
 This index then returns an ordered list of of approximate nearest neighbors in semantic space, from which we retrieve the answer.
 *Implemented for FAQs.*
+
+To test the different implementations, two datasets are also included in this repository. One contains a list of FAQs and the other a collection of plain text documents.
