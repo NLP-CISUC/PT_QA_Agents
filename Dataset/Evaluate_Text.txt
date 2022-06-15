@@ -1,0 +1,453 @@
+P: Quais os requisitos para montar a placa ZTE MF65?
+R: Placa ZTE MF65 - Requisitos: 
+1. Computador ligado à corrente, para garantir um melhor desempenho.
+2. Software do equipamento ZTE (router/placa de dados) instalado no computador.
+3. Equipamento ZTE (Router/Placa de dados) desligado do computador.
+
+P: Como instalo a ZTE MF65?
+R: Placa ZTE MF65 - Detalhes de Instalação:
+1. Caso o requisito 1 não seja verificado, ligue o carregador do computador à corrente.
+2. Caso o requisito 2 não seja verificado, instalar o Software do equipamento ZTE (router/placa de dados), tal como indicado no manual de utilizador do mesmo, antes de efectuar os passos seguintes.
+3. Caso o requisito 3 não seja verificado, desligue o equipamento ZTE (router/placa de dados) do computador.
+4. Copie o ficheiro ZGPatchForEcmDriverV1.0.6.zip para o desktop do computador.
+5. Execute o ficheiro ZGPatchForEcmDriverV1.0.6.zip. O ficheiro executável ZGPatchForEcmDriverV1.0.6.pkg é extraído para o desktop.
+6. Clique no ficheiro ZGPatchForEcmDriverV1.0.6.pkg com o botão direito do rato e seleccione a opção Abrir. A seguinte janela é apresentada:
+7. Clique em Abrir. A seguinte janela é apresentada:
+8. Clique em Continuar,
+9. Clique em Continuar,
+10. Insira a Palavra-passe e de seguida clique em Instalar software. O utilitário inicia a instalação e ao fim de alguns minutos a seguinte janela é apresentada:
+11. Clique em Fechar. O processo de instalação está concluído.
+12. Ligue o equipamento ZTE (router/placa de dados) e poderá utilizá-lo normalmente.
+
+P: Qual o sistema operativo da placa ZTE MF667?
+R: Placa ZTE MF667 - O utilitário (ZGPatchForEcmDriverV1.0.6.pkg)
+1. Sistema Operativo: OS X Yosemite (10.10).
+2. Equipamentos: ZTE MF667, ZTE MF63, ZTE MF65.
+3. Sintomas: Depois de instalar o equipamento, o mesmo não é detectado.
+4. Solução: Instalar o utilitário fornecido pela ZTE de acordo com os passos descritos neste guia.
+
+P: Ter o computador ligado à corrente é um dos requisitos da placa ZTE MF667?
+R: Placa ZTE MF667 - Requisitos: 
+1. Computador ligado à corrente, para garantir um melhor desempenho.
+2. Software do equipamento ZTE (router/placa de dados) instalado no computador.
+3. Equipamento ZTE (Router/Placa de dados) desligado do computador.
+
+P: Instalar placa ZTE MF63
+R: Placa ZTE MF63 - Detalhes de Instalação:
+1. Caso o requisito 1 não seja verificado, ligue o carregador do computador à corrente.
+2. Caso o requisito 2 não seja verificado, instalar o Software do equipamento ZTE (router/placa de dados), tal como indicado no manual de utilizador do mesmo, antes de efectuar os passos seguintes.
+3. Caso o requisito 3 não seja verificado, desligue o equipamento ZTE (router/placa de dados) do computador.
+4. Copie o ficheiro ZGPatchForEcmDriverV1.0.6.zip para o desktop do computador.
+5. Execute o ficheiro ZGPatchForEcmDriverV1.0.6.zip. O ficheiro executável ZGPatchForEcmDriverV1.0.6.pkg é extraído para o desktop.
+6. Clique no ficheiro ZGPatchForEcmDriverV1.0.6.pkg com o botão direito do rato e seleccione a opção Abrir. A seguinte janela é apresentada:
+7. Clique em Abrir. A seguinte janela é apresentada:
+8. Clique em Continuar,
+9. Clique em Continuar,
+10. Insira a Palavra-passe e de seguida clique em Instalar software. O utilitário inicia a instalação e ao fim de alguns minutos a seguinte janela é apresentada:
+11. Clique em Fechar. O processo de instalação está concluído.
+12. Ligue o equipamento ZTE (router/placa de dados) e poderá utilizá-lo normalmente.
+NOTA:
+-  Caso desinstale do computador o software do equipamento ZTE (router/placa de dados), o utilitário também será desinstalado. Assim, caso volte a instalar o software do equipamento ZTE no computador, o utilitário terá de ser novamente instalado.
+- Caso pretenda usar o equipamento ZTE noutro computador com o sistema operativo OS X Yosemite, o utilitário também terá de ser instalado nesse computador.
+
+P: Quais os detalhes de instalação da placa ZTE MF63?
+R: Placa ZTE MF63 - Detalhes de Instalação:
+1. Caso o requisito 1 não seja verificado, ligue o carregador do computador à corrente.
+2. Caso o requisito 2 não seja verificado, instalar o Software do equipamento ZTE (router/placa de dados), tal como indicado no manual de utilizador do mesmo, antes de efectuar os passos seguintes.
+3. Caso o requisito 3 não seja verificado, desligue o equipamento ZTE (router/placa de dados) do computador.
+4. Copie o ficheiro ZGPatchForEcmDriverV1.0.6.zip para o desktop do computador.
+5. Execute o ficheiro ZGPatchForEcmDriverV1.0.6.zip. O ficheiro executável ZGPatchForEcmDriverV1.0.6.pkg é extraído para o desktop.
+6. Clique no ficheiro ZGPatchForEcmDriverV1.0.6.pkg com o botão direito do rato e seleccione a opção Abrir. A seguinte janela é apresentada:
+7. Clique em Abrir. A seguinte janela é apresentada:
+8. Clique em Continuar,
+9. Clique em Continuar,
+10. Insira a Palavra-passe e de seguida clique em Instalar software. O utilitário inicia a instalação e ao fim de alguns minutos a seguinte janela é apresentada:
+11. Clique em Fechar. O processo de instalação está concluído.
+12. Ligue o equipamento ZTE (router/placa de dados) e poderá utilizá-lo normalmente.
+NOTA:
+-  Caso desinstale do computador o software do equipamento ZTE (router/placa de dados), o utilitário também será desinstalado. Assim, caso volte a instalar o software do equipamento ZTE no computador, o utilitário terá de ser novamente instalado.
+- Caso pretenda usar o equipamento ZTE noutro computador com o sistema operativo OS X Yosemite, o utilitário também terá de ser instalado nesse computador.
+
+P: Placa ZTE MF710, o que faço antes de começar?
+R: Placa ZTE MF710 - Antes de começar:
+O MEO Internet Móvel é a solução perfeita para levar a internet para onde quer que vá. Poderá aceder ao seu e-mail, navegar na internet, aceder às redes sociais, bem como enviar e receber sms a partir do seu PC.
+Este é o seu guia de instalação rápida, que contém Informação útil para a correta instalação da pen banda larga. 
+
+P: O que é preciso para iniciar a instalação da placa ZTE MF710?
+R: Placa ZTE MF710 - Para iniciar a instalação é necessário:
+1. Pen de dados MEO
+2. Cartão SIM
+
+P: Placa ZTE MF710 funcionalidades do software de ligação banda larga móvel
+R: Placa ZTE MF710 - Funcionaliades do software de ligação banda larga móvel:
+O software de ligação MEO Internet Móvel permite-lhe configurar as definições da ligação à rede móvel, gerir os seus contactos e enviar e receber mensagens sms.
+- Tipo de rede Informa o tipo de rede e a força do sinal que está a captar.
+- Estado da ligação Informa se a ligação está ou não estabelecida.
+- Informação - Permite regressar ao ecrã Principal do software de ligação.
+- Informações - Acesso a informações úteis e estatísticas de utilização da placa.
+- SMS Permite criar e ler mensagens sms, bem como gerir os itens enviados.
+- Contactos Permite efetuar a gestão de contactos: consultar, criar, editar e apagar.
+- Definições Acesso a definições da placa.
+- Velocidade de download e upload Velocidade de transferência de informação.
+- Contactos Permite efetuar a gestão de contactos: consultar, criar, editar e apagar.
+
+P: Como instalo o Router Huawei E5330?
+R: Router Huawei E5330 - Instalar equipamento: Instale o cartão SIM no seu router de acordo com as seguintes imagens.
+
+P: Acesso Internet Router Huawei E5330
+R: Router Huawei E5330 - Aceder à internet:
+1. Verifique no interior da tampa de bateria, a chave de rede (Wi-Fi Key) e o nome do seu router que irá aparecer nas Ligações de rede Wi-Fi (SSID). Irá precisar nos próximos passos desta informação.
+Ligue o router, pressionando durante alguns segundos o botão  até a luz indicadora acender.
+2. No computador, procure nas ligações de rede sem fios a ligação com o SSID do seu router. Selecione-a e clique em Ligar. 
+3. Na janela seguinte, insira a chave de segurança da rede (Wi-Fi Key) que se encontra no interior da tampa de bateria e confirme-a. De seguida, clique em OK.
+4. Aguarde enquanto é estabelecida a ligação com o seu router.
+5. Após ter sido estabelecida a ligação, e ao abrir um browser de internet, irá surgir a seguinte página.
+Insira o código PIN do seu cartão SIM. Se numa próxima utilização não quiser inserir novamente o PIN, selecione a opção “Desativar verificação de PIN”. De seguida, clique em Aplicar. 
+6. Após alguns momentos o router encontra-se ligado á internet.
+7. Para consultar as opções “Estatísticas”, “SMS”, “Verificar Atualizações” ou “Definições” será necessário validar-se como administrador do router. Deve utilizar “Nome do utilizador”: “admin” e “Palavra-passe”: “admin”. Clique em Iniciar Sessão.
+8. A partir de agora, o seu acesso à internet já se encontra configurado.
+9. Pode aceder à página de configuração do router sempre que o pretenda, através do endereço http://192.168.8.1 na barra de endereços do browser.
+
+P: Como exportar mensagens de texto no Modem Huawei E1750?
+R: Modem Huawei E1750 - Serviços SMS - Exportar Mensagens de Texto: Este tópico descreve como exportar mensagens de texto da memória de armazenamento gerida por Gestão do Terminal para um ficheiro *.csv. 
+1. Clique em Mensagens.
+2. Escolha Local.
+3. As seguintes operações são alternativas:
+- Clique com o botão do lado direito do rato na lista de mensagens e escolha Export Todos os SMS.
+- Seleccione uma ou mais mensagens. Clique com o botão do lado direito do rato nas mensagens seleccionadas e escolha Export SMS Seleccionado.
+4. Seleccione o caminho para gravar o ficheiro exportado.
+5. Introduza o nome do ficheiro e clique em Guardar. 
+Nota:
+- Use como exemplo as mensagens de texto de exportação em Local.
+- Local representa a memória interna no PC. 
+
+P: Como posso importar os meus contactos para o meu Modem Huawei E1750?
+R: Modem Huawei E1750 - Importar contactos: Pode importar contactos de um ficheiro *.csv para a lista telefónica local ou para o cartão SIM/USIM.
+1. Clique em contactos para apresentar a interface Lista telefónica;
+2. Clique em Local ou SIM/USIM na árvore de navegação;
+3. Clique com o botão direito do rato na lista de contactos e escolha Importar contactos;
+4. Escolha um ficheiro para importar os contactos. Clique em Abrir para apresentar a interface Mapa;
+5. Arraste o valor no ficheiro que corresponde ao campo na direita;
+6. Clique em OK.
+Nota: O número máximo de contactos que podem ser guardados no cartão SIM/USIM está sujeito à capacidade do cartão utilizado. Quando importa contactos para o cartão SIM/USIM, se a sua capacidade for atingida, a importação pára automaticamente. O conteúdo dos contactos importados não é afectado.
+
+P: Como vejo a informação de diagnóstico no meu Modem Huawei E180?
+R: Modem Huawei E180 - Definições e consulta de informação - Visualizar informação de diagnóstico: Escolha Ferramentas > Diagnósticos para visualizar informação da Gestão do Terminal e cartão SIM/USIM, bem como o número de mensagens e contactos guardados no cartão SIM/USIM, versão de firmware, versão de hardware e número IMSI (identificador internacional de assinante móvel).
+Nota: O número de mensagens/contactos guardados no cartão SIM/USIM é apresentado como XX/YY. XX corresponde ao número de mensagens/contactos e YY à capacidade do cartão SIM/USIM. A informação de diagnóstico está sujeita ao tipo de terminal utilizado.
+
+P: Não consigo aceder à internet no meu Modem Huawei E180, o que faço?
+R: Modem Huawei E180 - Perguntas frequentes - Que devo fazer se não conseguir aceder à Internet?
+1. Verifique a força do sinal de rede.
+2. Verifique se activou o serviço online sem fios. Poderá solicitar ao operador de rede
+local informações sobre como activar o serviço.
+3. Se o serviço em linha sem fios está activo, verifique as definições da rede de acordo
+com as instruções em Serviços de Internet.
+
+P: Qual a norma do wifi do Router Wireless A1000?
+R: Router Wireless ADB PDG A1000 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g e funcionalidade WPS; 1 Porta Ethernet; consulte o manual do utilizador.
+
+P: Quais são as características do Router A1000?
+R: Router Wireless ADB PDG A1000 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g e funcionalidade WPS; 1 Porta Ethernet; consulte o manual do utilizador.
+
+P: Que características tem o Router Wireless 4000N
+R: Router Wireless ADB 4000N - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: Quantas portas Ethernet tem o Router Wireless 4000N?
+R: Router Wireless ADB 4000N - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: Router TG582n tem funcionalidade WSP?
+R: Router Wireless Technicolor TG582n - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: Quais são as características do Router Wireless Technicolor TG582n?
+R: Router Wireless Technicolor TG582n - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: Características Router 2210
+R: Router Wireless ADB DA 2210 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: Quantas portas Ethernet tem o Router Wireless 2210?
+R: Router Wireless ADB DA 2210 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 4 portas Ethernet; consulte o manual do utilizador.
+
+P: O Router Wireless Technicolor TG799vn tem porta GbE?
+R: Router Wireless Technicolor TG799vn - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 1 porta GbE + 3 portas Ethernet; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Quais são as características do Router TG799vn
+R: Router Wireless Technicolor TG799vn - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 b/g/n e funcionalidade WPS; 1 porta GbE + 3 portas Ethernet; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: O Router Wireless TG784n tem acesso a que tipo de serviço de Internet?
+R: Router Wireless Technicolor TG784n - Routers de acesso ao serviço de Internet Fixa - Routers para serviços MEO Fibra e serviços MEO ADSL com TV.
+
+P: Quais são as características do Router TG784n?
+R: Router Wireless Technicolor TG784n - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n e funcionalidade WPS; 4 portas Ethernet; Controlo parental; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Partilha de conteúdos através de USB é possível no TG784n?
+R: Router Wireless Technicolor TG784n - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n e funcionalidade WPS; 4 portas Ethernet; Controlo parental; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: O Router TG784n v3 fornece ligação à internet com ou sem fios?
+R: Router Wireless Technicolor TG784n v3 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n e funcionalidade WPS; 1 porta GbE + 3 portas Ethernet; Controlo parental; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Características Router Wireless Technicolor TG784n v3
+R: Router Wireless Technicolor TG784n v3 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n e funcionalidade WPS; 1 porta GbE + 3 portas Ethernet; Controlo parental; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Qual a norma do wifi do Router TG784n v3?
+R: Router Wireless Technicolor TG784n v3 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n e funcionalidade WPS; 1 porta GbE + 3 portas Ethernet; Controlo parental; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Quantas portas GbE tem o Router TG789vac v2?
+R: Router Wireless Technicolor TG789vac v2 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n/ac (4 vezes mais rápido) e funcionalidade WPS; 2 redes wireless: 2.4 GHz e 5 GHz; Possibilidade de ter uma rede Guest configurável pelo utilizador; 4 portas GbE; Controlo parental; Modo gamming; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Qual a norma do wifi do Router TG789vac v2
+R: Router Wireless Technicolor TG789vac v2 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n/ac (4 vezes mais rápido) e funcionalidade WPS; 2 redes wireless: 2.4 GHz e 5 GHz; Possibilidade de ter uma rede Guest configurável pelo utilizador; 4 portas GbE; Controlo parental; Modo gamming; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Características TG789vac v2
+R: Router Wireless Technicolor TG789vac v2 - Características: Fornece ligação à internet sem fios em sua casa; WiFi Norma 802.11 a/b/g/n/ac (4 vezes mais rápido) e funcionalidade WPS; 2 redes wireless: 2.4 GHz e 5 GHz; Possibilidade de ter uma rede Guest configurável pelo utilizador; 4 portas GbE; Controlo parental; Modo gamming; Partilha de conteúdos através de USB (pen ou disco externo); consulte o manual do utilizador.
+
+P: Botão WPS está disponível no Router FiberGateway?
+R: Router FiberGateway - Características: Suporte para a norma WiFi 802.11ac - 4 antenas internas, Tecnologia MU-MIMO, Beamforming, Débito físico até 1.7 Gbps (433,3 Mbps x 4) Largura de banda 80 MHz, Suporte para 160 MHz – 80 x 2, ac wave2; 4 interfaces LAN Gigabit; ONT integrado; 1 interface USB; Botão de ligar/desligar; Botão WPS; consulte o manual do utilizador.
+
+P: Quantas interfaces LAN tem o Router FiberGateway?
+R: Router FiberGateway - Características: Suporte para a norma WiFi 802.11ac - 4 antenas internas, Tecnologia MU-MIMO, Beamforming, Débito físico até 1.7 Gbps (433,3 Mbps x 4) Largura de banda 80 MHz, Suporte para 160 MHz – 80 x 2, ac wave2; 4 interfaces LAN Gigabit; ONT integrado; 1 interface USB; Botão de ligar/desligar; Botão WPS; consulte o manual do utilizador.
+
+P: FiberGateway suporta a tecnologia MU-MIMO?
+R: Router FiberGateway - Características: Suporte para a norma WiFi 802.11ac - 4 antenas internas, Tecnologia MU-MIMO, Beamforming, Débito físico até 1.7 Gbps (433,3 Mbps x 4) Largura de banda 80 MHz, Suporte para 160 MHz – 80 x 2, ac wave2; 4 interfaces LAN Gigabit; ONT integrado; 1 interface USB; Botão de ligar/desligar; Botão WPS; consulte o manual do utilizador.
+
+P: Quais os requisitos para instalar a MEOBox Cisco KMM3000?
+R: MEOBox Cisco KMM3000 - Requisitos: Para uso de todas as funcionalidades do KMM3000 os seguintes requisitos precisam de ser cumpridos:
+- Ligação física (ADSL ou GPON) e acesso à Internet.
+- Router ou IAD (“Integrated Access Device”) – Aparelho para acesso à internet.
+- Aquisição do serviço da PT Comunicações.
+
+P: Onde está o conector HDMI na MEOBox KMM3000?
+R: MEOBox Cisco KMM3000 - Panorâmica do Painel Traseiro:
+7. Conector HDMI – Ligue a sua TV HDTV aqui.
+8. Conector Ethernet – Ligue aqui o seu descodificador a um router ou um IAD para aceder à rede.
+9. Entrada SCART – Ligue os seus aparelhos multimédia aqui (DVD, gravador video ou similares). Se usar a entrada SCART tem que ligar a TV ou monitor à saída SCART.
+10. Saída SCART – Ligue aqui a TV ou monitor.
+11. Áudio Out (L/R) – Ligue aqui cabos RCA para enviar áudio analógico para uma TV ou amplificador.
+12. Saída de Video Composto – Ligue aqui a TV ou monitor em video composto.
+13. Saída S-Video – Ligue aqui a TV ou monitor com entrada S-Video.
+14. Botão Reset – Carregue no botão reset para reiniciar o descodificador e faze-lo voltar à configuração de fábrica. Mais informação na página 21.
+15. Saída Estéreo coaxial – Uma de duas saídas áudio. Ligue um cabo RCA para enviar um sinal áudio digital para um amplificador surround ou outro aparelho de áudio digital.
+16. Saída Óptica estéreo – Uma de duas saídas áudio. Ligue um cabo óptico 		 para enviar um sinal de áudio digital para um amplificador surround ou outro aparelho de áudio digital.
+17. USB – Ligue aqui aparelhos compatíveis com USB. (Não utilizado)
+18. Fonte de alimentação – Ligue aqui o cabo de alimentação disponibilizado.
+19. Botão de Power – Ligue e desligue aqui.
+Nota: Podem não estar todos os conectores presentes, dependendo do seu fornecedor.
+
+P: Menu de TV do KMM3000
+R: MEOBox Cisco KMM3000 - O menu de TV do KMM3000
+Acedendo ao menu principal:
+1. Verifique que o descodificador está ligado.
+2. Carregue em no comando para ligar a TV. O comando deve estar em modo TV. Se não tiver programado o comando, use o botão de On/Off no comando da sua TV ou o botão de ligar da TV para a ligar.
+3. Carregue em para trocar para o canal AV correcto. O menu principal só funciona no canal AV seleccionado.
+4. Carregue em para trocar para modo de descodificador. Agora pode controlar o seu descodificador com o comando (apenas depois da programação).
+5. Carregue em para aceder ao menu de TV.
+
+P: Posso desligar a MEOBox Cisco ISB2201 enquanto acende e apaga os LEDs?
+R: MEOBox Cisco ISB2201 - Ligar a MEOBox:
+1. Ligue o equipamento à corrente elétrica com o cabo fornecido.
+Importante - Quando ligado à corrente elétrica pela primeira vez o equipamento poderá acender e apagar os LEDs durante alguns minutos. Não desligue o equipamento durante este processo.
+Nota: A MEOBox só funcionará com o comando se fizer o processo de arranque completo.
+2. Ligue o equipamento no interruptor no painel traseiro.
+3. Ligue o seu televisor.
+4. Selecione a ligação correta no seu televisor (SCART ou HDMI).
+5. Aguarde pela imagem no seu televisor vinda do equipamento.
+
+P: Como ligar a box Cisco ISB2201 a um televisor HD?
+R: MEOBox Cisco ISB2201 - Ligações a um televisor HD (alta-definição):  Para utilizar a MEOBox com uma televisão HD, tem de utilizar uma das seguintes ligações para que possa ver conteúdos de Alta Definição (HD). Consulte o manual da sua televisão e os diagramas de ligações deste manual para mais informações.
+Nota: Os nomes das interfaces na televisão e na MEOBox podem ter ligeiras diferenças.
+HDMI - A interface HDMI permite ambas as ligações de vídeo e áudio digital. Consulte o exemplo do diagrama de ligações na página 10.
+DVI - A interface HDMI permite ligar a uma televisão HD com entrada DVI (Digital Visual Interface). Se a sua televisão HD tiver uma interface DVI vai necessitar ter um cabo ou adaptador HDMI-to-DVI. Neste caso tem de ligar as interfaces áudio à parte através dum conjunto de cabos áudio analógico.
+Nota: A porta DVI na televisão tem de suportar HDCP (high-bandwidth digital content protection). Consulte o exemplo do diagrama de ligações na página 11.
+
+P: O que faço em caso de falha técnica na minha MEOBox ISB2201
+R: MEOBox Cisco ISB2201 - Em caso de falha técnica:
+Se o equipamento não finalizou o processo de arranque com sucesso proceda da seguinte forma:
+1. Se visualizar uma mensagem a pedir para confirmar uma atualização de software, pressione a tecla no comando.
+2. O software irá ser descarregado para o equipamento. Este processo poderá demorar alguns minutos (aproximadamente 20 minutos).
+3. Quando finalizar o descarregamento do software o equipamento reiniciar-se-á automaticamente.
+Nota: Caso tenha questões técnicas relativas à MEOBox, por favor contacte o apoio da PT através do número 16 209.
+
+P: A minha box IPTV Arris VIP5602EW não liga, o que faço?
+R: MEOBox IPTV Arris VIP5602EW - A MEOBox VIP5602EW não liga:
+- Verifique se a fonte de alimentação está ligada à MEOBox e a uma tomada de energia AC (230Vac).
+- Verifique ainda se o interruptor do painel traseiro se encontra na posição ON.
+- Se tudo estiver conforme o indicado e o equipamento não funcionar, desligue a MEOBox da tomada AC, volte a ligá-la e coloque o botão na posição ON.
+- Se a MEOBox estiver ligada a uma tomada de parede com interruptor ou a outra unidade, verifique se o interruptor ou a unidade estão ligados.
+- Verifique a existência de corrente na tomada, nomeadamente com um candeeiro ou com outro eletrodoméstico.
+- Prima o botão de LIGAR / STANDBY no painel superior da MEOBox em vez de utilizar o comando. As pilhas do comando poderão estar descarregadas.
+
+P: Qual a posição do interruptor do painel traseiro na MEOBox IPTV Arris VIP5602EW?
+R: MEOBox IPTV Arris VIP5602EW - Painel traseiro:
+LIGAR/DESLIGAR - Interruptor LIGAR/DESLIGAR.
+ALIMENTAÇÃO +12 V DC - Ligação do adaptador de corrente AC/DC. Utilize apenas o adaptador fornecido com a VIP5602EW. 
+LIGAÇÃO ETHERNET - Ligação RJ-45 da interface Ethernet 10/100/1000Base-T. LED Amarelo: Pisca rapidamente quando existe tráfego a passar na interface Ethernet. LED Verde: Fica aceso quando a ligação Ethernet está correctamente efectuada.
+BOTÃO DE REPOSIÇÃO - Prima e largue o botão para acionar o processo de recuperação do sistema.
+ÓTICO - Saída de áudio digital (S/PDIF) TOSLink.
+LIGAÇÃO DO CABO DE SEPARAÇÃO - Metodo alternativo para a ligação de áudio e vídeo. Disponibiliza Vídeo por componentes, Vídeo composto e Áudio estereo (canal esquerdo e canal direito).
+SAÍDA HDMI - Ligação HDMI para uma televisão de alta definição ou para um recetor de Home Cinema com entrada HDMI (no caso de possuir uma entrada DVI, utilize um adaptador de HDMI para DVI).
+USB 3.0 - Permite ligação a dispositivos USB 3.0.
+BOTÃO DE BLUETOOTH - A funcionalidade de Bluetooth não se encontra disponível neste equipamento.
+
+P: Não consigo ouvir quando vejo os canais na minha MEOBox IPTV Arris VIP5602EW
+R: MEOBox IPTV Arris VIP5602EW - Não existe áudio ao visualizar canais de TV:
+- Verifique se o botão Mute do comando foi premido. Prima Mute no comando para retomar o som.
+- Se a saída de áudio do recetor de TV estiver ligada à televisão, verifique se o botão Mute da televisão foi pressionado.
+- Se a saída de áudio do recetor de TV estiver ligada a um Home Cinema, verifique se este último está corretamente ligado à ficha adequada e se o botão Mute foi pressionado.
+- Verifique se dispõe dos cabos corretos para as portas áudio.
+- Verifique se os cabos de áudio estão bem ligados entre a MEOBox e o dispositivo de reprodução de som (TV, Home Cinema, etc.).
+
+P: O que tem o painel frontal da box Cisco ISB2231?
+R: MEOBox Cisco ISB2231 - Painel Frontal:
+LINK - LED verde: Indica se o equipamento está ligado à rede.
+HD - LED azul: Indica que o programa que está a ser transmitido é em Alta Definição.
+REC - LED vermelho: Indica que está a decorrer uma gravação.
+Sensor Infravermelhos - Recebe o sinal infra-vermelho do comando. O sensor está por trás do painel frontal.
+Botão Ligar/Stand by - Muda entre os modos “ligado”, “stand by ativo” e “stand by passivo”. No modo ligado apresenta a cor verde; no modo de stand by ativo apresenta a cor laranja e no modo stand by passivo, a cor vermelha. O stand by passivo é o modo que permite o menor consumo de energia quando o equipamento não está a ser utilizado.
+USB - Permite a ligação a dispositivos USB compatíveis (funcionalidade determinada por Software).
+
+P: Que cabos são utilizados para ligar a um televisor HD com DVI na MEOBox Cisco ISB2231?
+R: MEOBox Cisco ISB2231 - Cabos utilizados para Ligação a um televisor HD com DVI:
+- 1 cabo HDMI-to-DVI ou 1 cabo HDMI-to-HDMI e 1 adaptador HDMI/DVI;
+- 1 conjunto de cabos áudio L (Left) e R (Right) (RCA).
+ATENÇÃO: Perigo de choque elétrico! Desligue todos os equipamentos da corrente elétrica antes de ligar ou desligar qualquer cabo.
+
+P: A minha meobox ISB2231 está sem imagem
+R: MEOBox Cisco ISB2231 - Sem imagem:
+- Verifique se todos os cabos estão corretamente ligados.
+- Se o cabo de energia está ligado entre a MEOBox e uma tomada de energia. Verifique se o interruptor ON/OFF no painel traseiro está na posição de ligado (ON).
+- Verifique que a energia está ligada ao televisor.
+- Se a sua instalação inclui um videogravador, verifique se este está corretamente ligado à MEOBox.
+- Verifique se selecionou a entrada de vídeo correta no seu televisor ou home cinema.
+- Verifique se a MEOBox está configurada com as definições corretas do seu televisor tais como resolução e tipo de TV.
+
+P: O que traz a caixa do equipamento MEOBox Cisco CIS2000?
+R: MEOBox Cisco CIS2000 - Na caixa deste equipamento terá:
+- Equipamento CIS2000
+- Cabo para ligação à corrente eléctrica
+- Manual do utilizador
+- Cabo Ethernet
+- Comando Remoto e pilhas
+- Cabo Scart
+- Cabo HDMI
+Se não tiver algum destes componentes, contacte o Suporte Técnico 16209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em http://www.meo.pt.
+Nota: Eventualmente poderá ter mais componentes dentro da caixa do equipamento.
+
+P: Como utilizo o controlo remoto na box CIS2000?
+R: MEOBox Cisco CIS2000 - Como usar o Controlo Remoto: O controlo remoto envia sinais infravermelhos para o equipamento.
+O equipamento recebe esses signais por um sensor que está no painel frontal, como tal, deverá sempre apontar o controlo remoto para o painel frontal do equipamento.
+
+P: Como efetuar restart da minha MEOBox Cisco CIS2000
+R: MEOBox Cisco CIS2000 - Efectuar o restart do equipamento: 
+O botão Reset, localizado no painel traseiro do equipamento, permite efectuar o restart do equipamento.
+Para efectuar o restart do equipamento:
+1. Confirme que está no menu principal.
+2. Pressione o botão Reset durante 5 segundos. Verá uma mensagem relacionada com o restart na TV.
+3. Siga as instruções que apareçam na sua TV.
+
+P: Não consigo detetar o código pelo comando na programação automática na MEOBox VIP5662EW
+R: MEOBox IPTV Arris VIP5662EW - Programação Automática: Deteção do código pelo Comando
+1. Ligue a TV.
+2. Pressione o botão no Comando e mantenha-o pressionado até o LED “TV” piscar duas vezes.
+3. Pressione “0 0 1” (LED “TV” pisca duas vezes para confirmação) - tem 10 segs para esta operação de introdução de código.
+4. Direccione o Comando para a TV. Pressione até a TV se desligar.
+Nota: Isto pode demorar alguns minutos, durante os quais o LED “TV” continuará a piscar.
+5. Confirme a selecção pressionando.
+6. Pressione para ligar novamente a TV.
+7. Verifique que o Comando funciona corretamente mudando o nível de som.
+Notas: Se não conseguir mudar o nível de som, repita esta operação. A cada tentativa, o comando tentará uma nova programação. Se não conseguir finalizar a programação, tente programar manualmente.
+
+P: Mudar canais na minha box Arris VIP5662EW
+R: MEOBox IPTV Arris VIP5662EW - Para mudar os canais:
+- Prima os botões “P+” ou “P-“ do Comando para percorrer os canais disponiveis, ou
+- Insira o número do canal que pretende visualizar usando as teclas numéricas do comando.
+
+P: Porque é que a MEOBox VIP5662EW não liga?
+R: MEOBox IPTV Arris VIP5662EW - A MEOBox VIP5662EW não liga:
+- Verifique se a fonte de alimentação está ligada à MEOBox e a uma tomada de energia AC (230Vac).
+- Verifique ainda se o interruptor do painel traseiro se encontra na posição ON.
+- Se tudo estiver conforme o indicado e o equipamento não funcionar, desligue a MEOBox da tomada AC, volte a ligá-la e coloque o botão na posição ON.
+- Se a MEOBox estiver ligada a uma tomada de parede com interruptor ou a outra unidade, verifique se o interruptor ou a unidade estão ligados.
+- Verifique a existência de corrente na tomada, nomeadamente com um candeeiro ou com outro eletrodoméstico.
+- Prima o botão de LIGAR / STANDBY no painel superior da MEOBox em vez de utilizar o comando. As pilhas do comando poderão estar descarregadas.
+
+P: Como ligo a MEOBox IPTV Arris VIP2262?
+R: MEOBox IPTV Arris VIP2262 - Para ligar a MEOBox VIP22n2:
+1. Ligue o cabo do Adaptador à tomada do equipamento, e de seguida, ligue o adaptador à corrente elétrica. Não comece nunca por ligar o adaptador à alimentação da rede energia.
+2. Pressione o interruptor de alimentação para ligar a MEOBox.
+3. Depois de colocar o botão de alimentação na posição ON, use o Comando para ligar e desligar a MEOBox.
+
+P: Quais as opções de ligação da box VIP2262?
+R: MEOBox IPTV Arris VIP2262 - Opções de Ligação: A MEOBox dispõe das seguintes saídas de vídeo:
+- HDTV: HDMI.
+- Standard: S-Video, Composite video ou SCART.
+Para identificar quais as fichas disponíveis no seu televisor, consulte o manual fornecido em conjunto com a TV ou verifique a própria televisão. Utilize as seguintes instruções para determinar as melhores ligações para o seu sistema. Opte por uma das seguintes soluções.
+
+P: Como ligar a um home cinema com VIP2262
+R: MEOBox IPTV Arris VIP2262 - Ligação a um Home Cinema: Se o seu Home Cinema suportar esta ligação, utilize a saída OPTICAL S/PDIF. Caso contrário, utilize os conetores AUDIO OUT L e R. Na maior parte dos casos, a ligação S/ PDIF proporciona uma maior qualidade de som, incluindo o suporte de som Dolby Digital 5.1 Surround.
+
+P: Que elementos tem o painel trazeiro da MEOBox Arris VIP1002?
+R: MEOBox IPTV Arris VIP1002 - Painel Traseiro
+Energia: Botão de Ligar/Desligar.
+Alimentação: Tomada para ligação da alimentação (utilizar a fonte fornecida com o equipamento).
+Reset: Utilizar apenas quando indicado pelo seu prestador de serviço.
+Saída de vídeo: Saída de vídeo SCART para uma TV, videogravador (VCR) ou outros equipamentos.
+HDMI: Permite uma ligação a uma televisão de Alta Definição ou recetor de home cinema com uma entrada HDMI (para uma entrada DVI utilizar um adaptador de HDMI para DVI). 
+USB: Conetor Universal Serial Bus (USB 2.0).
+Áudio digital: Ligação áudio digital S/PDIF.
+Ethernet: Tomada para ligação do cabo Ethernet disponibilizado pelo seu prestador de serviço.
+Nota: Existem dois indicadores luminosos (LEDs) nesta tomada, um para confirmar a Ligação do cabo e o outro para a passagem de tráfego (Atividade). O LED de Ligação acende-se quando o cabo Ethernet está ligado à VIP1002 e a rede está ativa. O LED de Atividade pisca quando existe tráfego a passar nesta interface.
+
+P: Como ligo e desligo a alimentação elétrica da box Arris VIP1002?
+R: MEOBox IPTV Arris VIP1002 - Operação - Ligar e Desligar a alimentação elétrica:
+Para ligar a MEOBox:
+1.Ligue o cabo do Adaptador à tomada do equipamento, e de seguida, ligue o adaptador à corrente elétrica. Não comece nunca por ligar o adaptador à alimentação da rede energia.
+2.Ligue o botão de alimentação na posição ON.
+3.Depois de colocar o botão de alimentação na posição ON, use o comando para ligar e desligar a MEOBox.
+
+P: A VIP1002 não liga
+R: MEOBox IPTV Arris VIP1002 - A VIP1002 não liga: 
+- Verifique se o cabo da fonte de alimentação está ligado à VIP1002 e se o cabo de alimentação está ligado à rede de energia. Verifique ainda se o interruptor do painel traseiro se encontra na posição ON. Se tudo estiver conforme o indicado e o equipamento não funcionar, desligue a VIP1002 da tomada AC, volte a ligá-la e coloque o botão na posição ON.
+- A VIP1002 não deverá estar ligada a qualquer ficha de outro equipamento, nomeadamente a um vídeo gravador (VCR) ou a um Home Cinema que forneça alimentação de rede 230Vac. Verifique a existência de corrente na tomada, nomeadamente com um candeeiro ou com outro eletrodoméstico.
+- Com o painel traseiro ligado, prima o botão POWER do comando à distância para ativar a VIP1002.
+
+P: Quais as vantagens do MEO SmartHome?
+R: MEO Smart Home - Depois de instalar os equipamentos incluídos no seu pacote MEO Smart Home - Segurança e Vídeo poderá beneficiar das seguintes vantagens: 
+- Controlo remoto em tempo real, a partir do smartphone, tablet ou computador, permitindo-lhe (entre outras): ligar e desligar o alarme, em qualquer altura e onde quer que esteja; receber alarmes de intrusão ou incidente em tempo real, ilimitados, 24h / 7d, por chamada de voz, SMS e email; aceder em tempo real ao vídeo e som do perímetro da câmara de vídeo; reproduzir mensagens enviadas remotamente; tirar fotografias e gravar vídeo (até 24h); consultar o histórico de gravações de vídeo, eventos e alarmes.
+- Deteção de incêndio (deteção de inundação através de acessório opcional disponível).
+- Deteção de intrusão, por abertura inesperada de portas ou janelas (deteção de movimento no interior da sua casa através de acessório
+opcional disponível).
+- Gravação automática, em caso de intrusão, de deteção de movimento ou de outro alarme, através da câmara de vídeo HD (com visão noturna e detetor de movimento incorporado).
+- Armazenamento de histórico de gravações de vídeo, eventos e alarmes.
+- Alimentação a pilhas em caso de falha de eletricidade.
+- Ligação à Internet via rede móvel MEO, complementar à rede fixa, através de acessório opcional disponível (pen 4G MEO Smart Home), permitindo que o sistema continue operacional, em caso de falha da ligação à Internet fixa.
+Para conhecer as condições de utilização do seu sistema MEO Smart Home, visite o site www.meo.pt/meosmarthome.
+
+P: O que é o meo smarthome?
+R: MEO Smart Home - O que é o MEO Smart Home: É um sistema de proteção e controlo da sua casa à distância, fácil de instalar e de utilizar.
+
+P: Para que serve a câmara de vídeo HD no SmartHome da MEO?
+R: MEO Smart Home - Câmara de Vídeo HD: Efetua gravações automáticas em caso de alarme ou deteção de movimento
+no seu ângulo de visão. Permite a visualização remota e em tempo real da sua casa, a gravação manual de vídeo sempre que o pretender e a reprodução de mensagens remotas enviadas através do seu smartphone, tablet ou computador. Transformador de alimentação elétrica e cabo de rede ethernet incluídos.
+
+P: Como posso ativar o serviço meo smarthome através da área cliente meo?
+R: MEO Smart Home - Ativação do serviço MEO Smart Home através da área cliente MEO: 
+1. Se já é Cliente MEO aceda à sua área de Cliente MEO através de www.meo.pt/cliente.
+2. Faça o login utilizando os dados de autenticação (email e password) do seu MEO ID
+3. Aceda à opção Os meus produtos, disponível no ecrã inicial da sua conta de cliente MEO, para tal, clique em “A” e “B” conforme indicado na figura.
+4. Na listagem de produtos, do lado esquerdo do ecrã, selecione o produto Internet.
+5. Na página relativa ao seu produto Internet, aceda à área específica de serviços disponíveis para ativação e gestão, clicando na opção “A” (SERVIÇOS). De seguida, selecione a opção GERIR MEO SMART HOME clicando na opção “B” (GERIR) para entrar na página de ativação e gestão deste serviço.
+6. Encontra-se agora na página de ativação e gestão do serviço MEO Smart Home. Para ativar o serviço MEO Smart Home deverá indicar os seguintes dados: número de série da Central MEO Smart Home visível na etiqueta técnica da Central (campo S/N); número de telemóvel válido para receção de alarmes; endereço de email válido para receção de alarmes (o nº de telemóvel e e-mail são preenchidos automaticamente com os dados do seu MEO ID, mas podem ser alterados de acordo com a sua preferência).
+7. Aceite os Termos e Condições do serviço e selecione a opção ATIVAR.
+8. O seu MEO Smart Home já está ativo. Não feche a janela atual do seu browser de internet! Repare que, para sua conveniência, o seu Número de Serviço MEO lhe é indicado. Este número vai ser necessário dentro de momentos.
+9. Selecione o link assinalado (site MEO Smart Home) para iniciar o processo de instalação, passo a passo, dos seus equipamentos. Ao clicar no link indicado é encaminhado para uma página de controlo de segurança.
+10. Por razões de segurança deverá confirmar o seu número de serviço MEO e o código de acesso (access code) específico da sua Central: o número de serviço MEO é indicado na página onde se encontrava anteriormente (se, por algum motivo, não manteve a página aberta, aguarde 24 horas e volte a percorrer os passos 1 a 5 para voltar a aceder à área de gestão do serviço MEO Smart Home); o código de acesso da Central MEO Smart Home está visível na etiqueta técnica da Central (campo access code) conforme indicado na imagem.
+11. Após confirmação destes dados, inicia-se o processo de instalação dos seus equipamentos.
+
+P: Quais são os modos de deteção do alarme no MEO SmartHome?
+R: MEO Smart Home - Modos de deteção do alarme:
+1) Alarme ativado: Todos os detetores estão ativos. Se for detetada a abertura de portas ou janelas, movimento, fumo ou fuga de água, a sirene toca e o sistema envia-lhe um alarme.
+2) Alarme desativado: Os detetores de intrusão (abertura de portas ou janelas, movimento) estão desativados. Apenas os detetores de fumo e de fuga de água continuam ativos.
+3) Alarme personalizado: Neste modo, determinados detetores estão ativos e os restantes estão inativos. Este modo é adequado, por exemplo, para o período da noite em que pode pretender continuar a monitorizar eventuais intrusões, sem necessidade de controlar os movimentos no interior da sua habitação. Ou, por exemplo, quando pretende monitorizar apenas algumas divisões da sua casa. Por defeito, no modo de Alarme personalizado, apenas os sensores de abertura de portas ou janelas estão ativos. Para alterar os detetores e sensores que pretende manter ativos neste modo aceda ao site MEO Smart Home em meosmarthome.meo.pt e no menu Definições, selecione a opção Deteção personalizada.
+
+P: Onde posso gerir o meu MEO Smart Home?
+R: MEO Smart Home - Gerir o seu MEO Smart Home: O site meosmarthome.meo.pt permite-lhe gerir o seu MEO Smart
+Home a partir do seu smartphone, tablet ou computador.
