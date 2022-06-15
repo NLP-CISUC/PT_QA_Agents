@@ -27,19 +27,26 @@ Retrieves the answer in that same document.
 * **Whoosh_Highlights** - Whoosh engine that, in a collection of plain text documents, searches the document most similar to the posed question and retrieves as an answer the spans of text from that same document deemed as most similar to the question.
 *Implemented for Text.*
 
-* **BERT_FE** - BERT model that computes the vector representations of each question-answer pair and the posed question, and calculates the similarity between the question and each pair.
+* **BERT_NLI** - Portuguese-cased BERT model that computes the vector representations of each question-answer pair and the posed question, making use of Natural Language Inference. The similarity is then calculated between the question and each pair.
+Returns the answer corresponding to the pair with the most similar representation to the posed question.
+*Implemented for FAQs.* 
+
+* **BERT_FE** - Portuguese-cased BERT model that computes the vector representations of each question-answer pair and the posed question. The similarity is then calculated between the question and each pair.
 Returns the answer corresponding to the pair with the most similar representation to the posed question.
 *Implemented for FAQs.*
 
-* **BERT_Clustering** - BERT model that computes the vector representations of each question-answer pair and the posed question, and performs a k-means clustering of the pairs.
-Then calculates the similarity between the centroid of each cluster and the posed question.
-The cluster deemed as most similar is used as context in BERT-QA, which retrieves a span of text from the context as an answer.
+* **BERT_Clustering** - Portuguese-cased BERT model that computes the vector representations of each question-answer pair and the posed question. A k-means clustering of the pairs is then performed.
+The similarity between the centroid of each cluster and the posed question is calculated, and the cluster deemed as most similar is used as context in Portuguese-cased BERT-QA, which retrieves a span of text from the context as an answer.
 *Implemented for FAQs.*
 
-* **BERT_Whoosh** - Combination of search engine Whoosh and BERT model.
+* **BERT_Whoosh** - Combination of search engine Whoosh and Portuguese-cased BERT model.
 Whoosh pre-selects the most similar document, from a collection of plain text documents, to the posed question.
-The document deemed as most similar is then used as context in BERT-QA, which retrieves a span of text from the context as an answer.
+The document deemed as most similar is then used as context in Portuguese-cased BERT-QA, which retrieves a span of text from the context as an answer.
 *Implemented for Text.*
 
 * **GPT2** - GPT-2 model that is finetuned on either a list of FAQs or a collection of plain text documents and generates answers based on the domain in which it was finetuned. 
 *Implemented for FAQs and Text.*
+
+* **USE-QA** - Universal Sentence Encoder Q&A Retrieval model that computes the vector representations of a list of sentence-context pairs, with the context being the text surrounding the sentence. We define the sentence as the question from a question-answer pair and the respective context as the whole pair. Such representations are then stored in a simpleneighbors index. Upon receiving a question, USE-QA computes its vector representation, later used to query the previously created index.
+This index then returns an ordered list of of approximate nearest neighbors in semantic space, from which we retrieve the answer.
+*Implemented for FAQs.*
