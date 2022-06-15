@@ -1,0 +1,138 @@
+MEOBox IPTV Arris VIP1002 - Os nossos parabéns por ter escolhido a nova MEOBox IPTV VIP1002 da ARRIS! A MEOBox representa a tecnologia mais avançada em entretenimento doméstico. O serviço MEO e a sua nova VIP1002 permitem-lhe usufruir como nunca da sua televisão.
+
+MEOBox IPTV Arris VIP1002 - Após a instalação, poderá simplesmente descontrair e usufruir do serviço. Se no futuro optar por adicionar outros dispositivos à sua atual configuração, nomeadamente um Home Cinema, televisão de Alta Definição (HDTV), ou uma televisão estéreo, poderá consultar o presente manual para saber como deverá efetuar as respetivas ligações.
+
+MEOBox IPTV Arris VIP1002 - A MEOBox VIP1002 da ARRIS possui saídas que permitem a ligação a diversos tipos de equipamentos de áudio e vídeo. O seu prestador de serviço efetuará a ligação adequada à sua televisão no momento da instalação do serviço, mas poderá ser o próprio utilizador a fazê-lo, seguindo para o efeito as figuras indicadas neste manual.
+
+MEOBox IPTV Arris VIP1002 - Painel Frontal
+LED indicador de Energia/Ligação: A luz verde indica que a VIP1002 está ligada e ativa. A luz laranja indica que a VIP1002 se encontra no modo de espera.
+
+MEOBox IPTV Arris VIP1002 - Painel Traseiro
+Energia: Botão de Ligar/Desligar.
+Alimentação: Tomada para ligação da alimentação (utilizar a fonte fornecida com o equipamento).
+Reset: Utilizar apenas quando indicado pelo seu prestador de serviço.
+Saída de vídeo: Saída de vídeo SCART para uma TV, videogravador (VCR) ou outros equipamentos.
+HDMI: Permite uma ligação a uma televisão de Alta Definição ou recetor de home cinema com uma entrada HDMI (para uma entrada DVI utilizar um adaptador de HDMI para DVI). 
+USB: Conetor Universal Serial Bus (USB 2.0).
+Áudio digital: Ligação áudio digital S/PDIF.
+Ethernet: Tomada para ligação do cabo Ethernet disponibilizado pelo seu prestador de serviço.
+Nota: Existem dois indicadores luminosos (LEDs) nesta tomada, um para confirmar a Ligação do cabo e o outro para a passagem de tráfego (Atividade). O LED de Ligação acende-se quando o cabo Ethernet está ligado à VIP1002 e a rede está ativa. O LED de Atividade pisca quando existe tráfego a passar nesta interface.
+
+MEOBox IPTV Arris VIP1002 - Descrição do Comando - Colocação de pilhas no Comando: São necessárias 2 pilhas para o Comando (Tipo AAA 1.5V, incluídas). Insira as pilhas da seguinte forma:
+1. Na parte de trás do Comando, puxe a tampa da pilhas para baixo libertando a patilha de segurança.
+2. Inserir as pilhas uma por cada compartimento. Respeite a polaridade (+/-) das pilhas. A colocação correta está no fundo do compartimento das pilhas no Comando.
+3. Insira a tampa primeiro em baixo e depois pressione até que a tampa fique novamente na sua posição correta.
+
+MEOBox IPTV Arris VIP1002 - Descrição do Comando - Em caso de falha técnica: Se o equipamento não finalizou o processo de arranque, faça o seguinte:
+- Pressione o botão “OK” no Comando se vir uma mensagem a pedir para confirmar uma atualização de software.
+- O software irá ser a atualizado no equipamento.
+- Quando finalizar a atualização do software o equipamento reiniciar-se-á automaticamente.
+- Senão por favor verifique se os cabos entre os equipamentos estão corretamente ligados. Caso o problema persista, desligue todos os equipamentos da energia.
+- Volte a ligar a ONT (se existir), seguido do router, aguarde 5 minutos e ligue os restantes equipamentos.
+Nota: Se o problema persistir, por favor contacte o Suporte Técnico 16 209 (todos os dias, 24h/dia) - pode verificar o tarifário aplicável em meo.pt.
+
+MEOBox IPTV Arris VIP1002 - Utilizar o Comando - Como Usar o Comando: Esta secção descreve como funcionar com o Comando para navegar nos menus e efetuar comandos.
+O Comando envia sinais infravermelhos para o equipamento. O equipamento recebe esses sinais por um sensor que está no painel frontal, como tal, deverá sempre apontar o Comando para o painel frontal do equipamento.
+
+MEOBox IPTV Arris VIP1002 - Utilizar o Comando - Como Usar o Comando para a TV: Se desejar usar um só comando poderá programar o Comando Meo para funcionar também com a TV. Se for este o caso programe o Comando seguindo as instruções que abaixo se indicam.
+
+MEOBox IPTV Arris VIP1002 - Programação Automática - Deteção do código pelo Comando:
+1. Ligue a TV.
+2. Pressione o botão no Comando e mantenha-o pressionado até o LED “TV” piscar duas vezes.
+3. Pressione “0 0 1” (LED “TV” pisca duas vezes para confirmação) - tem 10 segs para esta operação de introdução de código.
+4. Direccione o Comando para a TV. Pressione até a TV se desligar.
+Nota: Isto pode demorar alguns minutos, durante os quais o LED “TV” continuará a piscar.
+5. Confirme a selecção pressionando.
+6. Pressione para ligar novamente a TV.
+7. Verifique que o Comando funciona corretamente mudando o nível de som.
+Notas: Se não conseguir mudar o nível de som, repita esta operação. A cada tentativa, o comando tentará uma nova programação. Se não conseguir finalizar a programação, tente programar manualmente.
+
+MEOBox IPTV Arris VIP1002 - Programação Manual - Introduzindo o código da marca:
+1.Verifique qual o fabricante da sua TV. O mesmo código pode ser usado por vários fabricantes.
+2.Pressione o botão TV no comando.
+3.Introduza o código de três dígitos correspondentes à marca da sua TV. O LED “TV” irá piscar duas vezes para confirmar a selecção.
+4.Direccione o Comando para a sua TV. Pressioneaté que a sua TV se desligue.
+Nota: Esta operação poderá demorar alguns segundos durante os quais o LED “TV” irá piscar.
+5.Se a sua TV se desligar, volte a ligar e verifique se outras funções também funcionam. Se as outras funções estiverem a funcionar corretamente terminou a programação manual. Caso contrário, repita as operações desde o ponto 2.
+Nota: Escreva a marca do código que funciona com a sua TV neste manual, para que a possa encontrar mais rapidamente no futuro.
+
+MEOBox IPTV Arris VIP1002 - Operação - Ligar e Desligar a alimentação elétrica:
+Para ligar a MEOBox:
+1.Ligue o cabo do Adaptador à tomada do equipamento, e de seguida, ligue o adaptador à corrente elétrica. Não comece nunca por ligar o adaptador à alimentação da rede energia.
+2.Ligue o botão de alimentação na posição ON.
+3.Depois de colocar o botão de alimentação na posição ON, use o comando para ligar e desligar a MEOBox.
+
+MEOBox IPTV Arris VIP1002 - Para desligar a MEOBox:
+Quando o equipamento está desligado (modo de poupança de energia), se premir o botão POWER do comando; a luz laranja do LED do painel frontal da VIP1002 acende-se, indicando que a unidade se encontra no modo de espera (stand-by).
+Nota: Se premir o botão POWER do comando quando a MEOBox se encontra no modo de espera, esta retoma o seu funcionamento normal.
+
+MEOBox IPTV Arris VIP1002 - Operação - Mudar os canais
+Para mudar os canais:
+- Prima os botões “P+” ou “P-“ do comando à distância para percorrer os canais disponiveis, ou
+- Insira o número do canal que pretende visualizar usando as teclas numéricas do comando à distância.
+
+MEOBox IPTV Arris VIP1002 - Operação - Ajustar o volume
+Para ajustar o volume ou colocar no silêncio:
+- Prima V+ ou V– no comando à distância. Tenha em atenção que ao ajustar o volume, surgirá no ecrã a escala do volume.
+- Prima o botão MUTE no comando à distância para desligar e ligar novamente o som.
+
+MEOBox IPTV Arris VIP1002 - Ligação da MEOBox VIP1002: Esta secção descreve a ligação da VIP1002 ao seu sistema de entretenimento.
+
+MEOBox IPTV Arris VIP1002 - Ligações vídeo:
+A MEOBox possui as seguintes saídas de vídeo:
+- TV de Alta Definição (HDMI)
+- TV de Definição Standard (SCART)
+Para identificar quais as fichas disponíveis no seu televisor, consulte o manual fornecido em conjunto com a TV ou verifique o próprio televisor. Utilize as seguintes instruções para determinar a melhor ligação de vídeo para o seu sistema:
+- HDMI - Áudio e Vídeo: A ligação HDMI disponibiliza uma qualidade vídeo superior. Se a sua televisão é de Alta Definição utilize a ligação HDMI. Se o seu HDTV possui uma entrada DVI, poderá utilizar um cabo conversor de HDMI para DVI para ligar ao conetor HDMI da VIP1002. Utilize um cabo com um conetor HDMI numa extremidade e um conetor DVI na extremidade oposta. Não recomendamos a utilização de qualquer outro tipo de adaptador de HDMI para DVI ou de DVI para HDMI.
+- SCART - Áudio e Vídeo: Para TV de Definição Standard, utilize o conetor SCART na VIP1002.
+
+MEOBox IPTV Arris VIP1002 - IMPORTANTE: A melhor ligação de áudio e vídeo para um televisor com HDMI é utilizar a tomada HDMI na VIP1002. Se possui um televisor de Alta Definição com uma entrada DVI, deverá adquirir um adaptador de HDMI/DVI para efetuar a ligação do seu televisor ao equipamento VIP1002. Não existe áudio disponível na interface DVI pelo que deverá ligar a saída áudio (S/PDIF) da VIP1002 à entrada áudio digital do seu televisor.
+
+MEOBox IPTV Arris VIP1002 - Ligações áudio: Consoante as capacidades do seu equipamento, utilize a saída digital para transmitir o sinal áudio S/PDIF Dolby para ligar o sistema de som da sua televisão ou do seu recetor de Home Cinema. Na maior parte dos casos proporciona uma maior qualidade, incluindo o suporte para o som Dolby Digital 5.1 surround.
+NOTA: As figuras ilustram as ligações comuns de áudio/vídeo (A/V) a um Home Cinema quando este equipamento é usado como um router A/V. Para efetuar a ligação a um Home Cinema, consulte as instruções descritas no manual de instalação desse equipamento para obter informações acerca das entradas disponíveis e do seu funcionamento.
+
+MEOBox IPTV Arris VIP1002 - Ligação a uma televisão de Alta Definição HDTV: Ligue a HDTV com o conetor HDMI. Se a sua HDTV possui uma entrada DVI, poderá utilizar um conversor de HDMI para DVI para ligar ao conetor HDMI da MEOBox. Para a ligação áudio, consulte a secção seguinte.
+
+MEOBox IPTV Arris VIP1002 - Ligação Áudio a um Recetor A/V: Se o seu Home Cinema suportar esta ligação, utilize a saída coaxial S/PDIF. A imagem seguinte mostra uma ligação áudio da VIP1002.
+
+MEOBox IPTV Arris VIP1002 - Ligação a uma Televisão de Definição Standard: A imagem seguinte mostra uma ligação SDTV da VIP1002. Para saber qual a melhor ligação, consulte as Ligações de vídeo na página 4.
+NOTA: Este método de ligação não permite sinal de vídeo em Alta Definição. Para mais informações, consulte “Ligação a uma HDTV” na página 9.
+
+MEOBox IPTV Arris VIP1002 - Ligação a uma Televisão de Definição Standard e a um Gravador Multimédia (VCR/DVD): A imagem seguinte mostra uma ligação SDTV da VIP1002 e as ligações do VCR estéreo.
+Nota: Este método de ligação não permite sinal de vídeo em Alta Definição Para mais informações, consulte “Ligação a uma HDTV” na página 9.
+
+MEOBox IPTV Arris VIP1002 - Ligação a um Recetor A/V, Televisão de Definição Standard e Gravador Multimédia: A imagem seguinte mostra as ligações da VIP1002 ao Recetor A/V, à SDTV e ao VCR.
+Nota: Este método de ligação não permite sinal de vídeo em Alta Definição. Para mais informações, consulte “Ligação a uma HDTV” na página 9.
+
+MEOBox IPTV Arris VIP1002 - Registar as suas Ligações: Utilize o diagrama seguinte para assinalar as ligações entre os componentes do seu sistema de entretenimento doméstico. Pode ainda consultar este diagrama para voltar a ligar o seu sistema, em caso de mudança do equipamento ou de instalação de um novo equipamento.
+Nota: Antes de ligar ou alterar as ligações do cabo, desligue o equipamento do recetor da televisão. Não coloque nenhum componente ou objeto por cima do recetor de TV.
+
+MEOBox IPTV Arris VIP1002 - Resolução de problemas: Antes de contactar a Assistência Técnica, consulte o guia de resolução de problemas.
+
+MEOBox IPTV Arris VIP1002 - A VIP1002 não liga: 
+- Verifique se o cabo da fonte de alimentação está ligado à VIP1002 e se o cabo de alimentação está ligado à rede de energia. Verifique ainda se o interruptor do painel traseiro se encontra na posição ON. Se tudo estiver conforme o indicado e o equipamento não funcionar, desligue a VIP1002 da tomada AC, volte a ligá-la e coloque o botão na posição ON.
+- A VIP1002 não deverá estar ligada a qualquer ficha de outro equipamento, nomeadamente a um vídeo gravador (VCR) ou a um Home Cinema que forneça alimentação de rede 230Vac. Verifique a existência de corrente na tomada, nomeadamente com um candeeiro ou com outro eletrodoméstico.
+- Com o painel traseiro ligado, prima o botão POWER do comando à distância para ativar a VIP1002.
+
+MEOBox IPTV Arris VIP1002 - O comando à distância não funciona:
+- Confirme se o televisor está ligado.
+- Confirme se não existem obstáculos entre o comando à distância e a VIP1002. Direcione o comando à distância diretamente para o painel frontal da VIP1002 e não para o televisor ou para o videogravador.
+- O ângulo entre o comando à distância e a VIP1002 poderá ser demasiado grande. Mantenha-se diante da VIP1002 e não se afaste para qualquer dos lados.
+- Prima e liberte os botões, um de cada vez e com firmeza.
+- Verifique as pilhas do comando à distância. Substitua as pilhas se necessário.
+
+MEOBox IPTV Arris VIP1002 - Não existe áudio ao visualizar os canais de televisão:
+- Verifique se o botão Mute do comando à distância foi premido. Prima MUTE no comando à distância para retomar o som.
+- Verifique se a saída de áudio da sua VIP1002 está ligada à televisão ou ao Home Cinema.
+- Se a saída de áudio da VIP1002 estiver ligada à televisão, verifique se o botão Mute da televisão foi pressionado.
+- Se a saída de áudio da VIP1002 estiver ligada a um Home Cinema, verifique se este último está corretamente ligado à ficha adequada e se o botão Mute foi pressionado.
+- Verifique se os cabos estão corretamente ligados às fichas de áudio e se o Home Cinema está devidamente ligado.
+- Verifique se os cabos de áudio estão bem ligados entre a VIP1002 e o dispositivo de reprodução de som (TV, Home Cinema, etc.).
+
+MEOBox IPTV Arris VIP1002 - Não existe som nas colunas centrais e/ou nas colunas surround do Home Cinema ligado à VIP1002:
+- Nem todos os programas Dolby Digital emitem som no formato 5.1 Surround. Em alguns casos, os programas poderão ter apenas áudio estéreo (apenas funciona o canal esquerdo e direito).
+- Verifique se o cabo S/PDIF está bem ligado à VIP1002 e ao Home Cinema.
+- áudio de som surround (Dolby Digital, Dolby Pro Logic® II, Dolby Pro Logic).
+- Verifique se o Home Cinema está corretamente configurado para trabalhar com todas as colunas.
+
+MEOBox IPTV Arris VIP1002 - Códigos do Comando por marca de TV: Verifique o fabricante da sua TV e memorize o código a usar no Comando.

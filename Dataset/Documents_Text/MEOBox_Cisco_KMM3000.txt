@@ -1,0 +1,161 @@
+MEOBox Cisco KMM3000 - Com o KMM3000 pode receber programas de video-on-demand baseados na net ou em IPTV e vê-los no seu equipamento de TV.
+O descodificador KMM3000 suporta o standard HDTV (“HD ready”) por isso com uma TV adequada terá todas as vantagens desta nova tecnologia. O descodificador, por exemplo, permite uma resolução até 1080p. HDTV é o standard da indústria do futuro e já está a ser oferecido por vários serviços de streaming e download da internet.
+Por favor gaste algum tempo a conhecer o seu descodificador para assim poder desfrutar de muitas horas de entretenimento de qualidade.
+
+MEOBox Cisco KMM3000 - Requisitos: Para uso de todas as funcionalidades do KMM3000 os seguintes requisitos precisam
+de ser cumpridos:
+- Ligação física (ADSL ou GPON) e acesso à Internet.
+- Router ou IAD (“Integrated Access Device”) – Aparelho para acesso à internet.
+- Aquisição do serviço da PT Comunicações.
+
+MEOBox Cisco KMM3000 - Instalação do descodificador KMM3000 - Conteúdo da Embalagem: 
+1. Descodificador KMM3000
+2. Cabo de alimentação
+3. Cabos de ligação à TV e à porta Ethernet (cabo incluído)
+4. Controlo remoto e baterias respectivas
+4. Manual do utilizador
+Se algum destes componentes estiver em falta ou danificado, por favor contacte a linha de apoio (veja Secção “Apoio ao cliente” na página 25).
+Nota: A embalagem que recebeu pode conter cabos ou aparelhos adicionais.
+
+MEOBox Cisco KMM3000 - Instalação e localização: O KMM3000 foi desenhado para operação em divisões fechadas, secas com uma temperatura entre +5 ºC to +45 ºC.
+Atenção! Nunca expor o equipamento a fontes de calor ou luz do sol directa. Proteja o aparelho contra humidade, pó, fluidos agressivos e vapores.
+
+MEOBox Cisco KMM3000 - Panorâmica do Painel Frontal:
+1. On/Standby – Muda entre os modos On e Standby.
+2. Voltar – Volta um nível atrás no menu do KMM3000.
+3. Setas – Aceda ao PiP da estação, e navegue nos canais de TV. Ao confirmar com OK vai directamente para o canal TV escolhido. No menu do serviço TV do KMM3000 move a barra de selecção verticalmente. Com as setas esquerda/direita navega nas ofertas de programação. No menu do serviço TV do KMM3000 move a barra de selecção horizontalmente.
+4. OK – Carregue em OK para confirmar a selecção escolhida no menu.
+5. Menu – Ir para o menu inicial do serviço TV do KMM3000.
+6. Conector USB – Um dos dois conectores USB para periféricos USB. (Não utilizado).
+
+MEOBox Cisco KMM3000 - Panorâmica do Painel Traseiro:
+7. Conector HDMI – Ligue a sua TV HDTV aqui.
+8. Conector Ethernet – Ligue aqui o seu descodificador a um router ou um IAD para aceder à rede.
+9. Entrada SCART – Ligue os seus aparelhos multimédia aqui (DVD, gravador video ou similares). Se usar a entrada SCART tem que ligar a TV ou monitor à saída SCART.
+10. Saída SCART – Ligue aqui a TV ou monitor.
+11. Áudio Out (L/R) – Ligue aqui cabos RCA para enviar áudio analógico para uma TV ou amplificador.
+12. Saída de Video Composto – Ligue aqui a TV ou monitor em video composto.
+13. Saída S-Video – Ligue aqui a TV ou monitor com entrada S-Video.
+14. Botão Reset – Carregue no botão reset para reiniciar o descodificador e faze-lo voltar à configuração de fábrica. Mais informação na página 21.
+15. Saída Estéreo coaxial – Uma de duas saídas áudio. Ligue um cabo RCA para enviar um sinal áudio digital para um amplificador surround ou outro aparelho de áudio digital.
+16. Saída Óptica estéreo – Uma de duas saídas áudio. Ligue um cabo óptico 		 para enviar um sinal de áudio digital para um amplificador surround ou outro aparelho de áudio digital.
+17. USB – Ligue aqui aparelhos compatíveis com USB. (Não utilizado)
+18. Fonte de alimentação – Ligue aqui o cabo de alimentação disponibilizado.
+19. Botão de Power – Ligue e desligue aqui.
+Nota: Podem não estar todos os conectores presentes, dependendo do seu fornecedor.
+
+MEOBox Cisco KMM3000 - Instalação e primeira utilização:
+1. Ligue o seu DVD, gravador video ou aparelho similar no conector SCART-IN do descodificador. Para fazer isto precisa dum cabo SCART. Se fornecido, use o cabo SCART incluído para ligar o seu descodificador KMM3000 ao conector SCART-OUT da sua TV ou monitor.
+2. Ligue o descodificador e um router ou IAD usando o cabo Ethernet incluído. Na secção “Conexões,” na página 11, encontra instrucções detalhadas sobre como ligar vários aparelhos de vídeo e áudio.
+
+MEOBox Cisco KMM3000 - Colocação de pilhas no Comando: São necessárias 2 pilhas para o Comando (Tipo AAA 1.5V, incluídas). Insira as pilhas da seguinte forma:
+1. Na parte de trás do Comando, puxe a tampa da pilhas para baixo libertando a patilha de segurança.
+2. Inserir as pilhas uma por cada compartimento. Respeite a polaridade (+/-) das pilhas. A colocação correta está no fundo do compartimento das pilhas no Comando.
+3. Insira a tampa primeiro em baixo e depois pressione até que a tampa fique novamente na sua posição correta.
+
+MEOBox Cisco KMM3000 - Ligar o descodificador:
+1. Ligue o descodificar no botão de Power do painel traseiro.
+2. Espere para ver se o mostrador do descodificador acende. Se o mostrador não acender, carregue no botão On/Standby na frente do descodificador.
+3. Ligue a sua TV.
+4. Escolha o canal externo correcto na sua TV (KMM3000 pode aparecer em vários canais dependendo da ligação que escolheu para ligar o descodificador à TV).
+5. Espere que o ecrã de início apareça na sua TV.
+Dica: O descodificador só pode ser controlado com o comando se a sequência de arranque tiver terminado e aparecer o menu principal.
+
+MEOBox Cisco KMM3000 - Usando o conector Ethernet:  O seu descodificador acede a IPTV através da ligação Ethernet. Garanta que o descodificador está correctamente ligado ao seu Router ou IAD.
+
+MEOBox Cisco KMM3000 - Encontre o conector Ethernet: O conector Ethernet encontra-se no painel traseiro do descodificador à esquerda das entradas de SCART.
+Ligue o cabo Ethernet incluído na entrada Ethernet do descodificador. Vai ouvir um clique quando o cabo estiver correctamente inserido. Garanta que a outra ponta do cabo está correctamente ligada ao seu router ou IAD. Caso tenha questões relativas à sua ligação Internet por favor contacte o apoio PT Comunicações, utilizando a Linha de Apoio ao dispôr.
+
+MEOBox Cisco KMM3000 - Usando o conector HDMI: HDMI (“High-Definition Multimedia Interface”) é um novo interface que transporta vídeo e áudio digitais através duma ligação única e, actualmente, permite resoluções até 1080p. Se usar um ecrã compatível com HDMI, e a sua velocidade do seu acesso o permitir, estará pronto para aproveitar as vantagens desta tecnologia inovadora. 
+
+MEOBox Cisco KMM3000 - Encontre o conector HDMI: O conector HDMI encontra-se no painel traseiro do descodificador à esquerda do conector Ethernet.
+Se tiver um ecrã compatível com HDMI, ligue o cabo HDMI ao conector HDMI no descodificador. Vai ouvir um clique quando o cabo estiver correctamente inserido. Garanta que a outra ponta do cabo HDMI está ligada correctamente ao conector HDMI do seu ecrã compatível.
+
+MEOBox Cisco KMM3000 - Utilizando os conectores SCART: Os conectores SCART possibilitam a ligação de periféricos (por exemplo, um DVD ou gravador vídeo) à TV através do descodificador. O standard SCART oferece qualidade de áudio e vídeo analógico optimizada; os sinais e áudio e vídeo são transferidos na mesma ligação.
+
+MEOBox Cisco KMM3000 - Encontre os conectores SCART: Ambos conectores SCART podem ser encontrados no painel traseiro do descodificador. Cada conector tem um lado inclinado.
+Use um cabo SCART para ligar a entrada SCART do descodificador com a saída SCART do seu periférico (DVD, gravador de vídeo ou similares). Use um segundo cabo SCART para ligar a saída SCART do descodificador com a entrada da sua TV.
+
+MEOBox Cisco KMM3000 - Utilizando o conector de Vídeo Composto: Vídeo Composto é o formato standard para visualização de vídeo. Para receber áudio além do vídeo, terá que ligar a TV, um amplificador, ou um hi-fi a uma das saídas áudio do descodificador. Informação adicional sobre como ligar aparelhos de áudio digital ao descodificador pode se encontrada na página 16.
+
+MEOBox Cisco KMM3000 - Encontre o conector de Vídeo Composto:  O conector de vídeo composto encontra-se abaixo do conector de S-Video no painel traseiro do descodificador, entre as saídas de estéreo analógico e o botão de Reset.
+Ligue o cabo de vídeo composto na saída de vídeo composto do descodificador. Tenha atenção ao código de cores do cabo (amarelo no amarelo). Ligue a outra ponta dos cabos ao conector de vídeo composto da sua TV ou monitor. Use um cabo aúdio RCA para ligar a saída de áudio do descodificador à sua TV, ao amplificador, hi-fi ou outro aparelho similar (código de cor: vermelho no vermelho e branco no branco).
+
+MEOBox Cisco KMM3000 - Utilizando o conector S-Video: S-Video é um formato standard para visualização de vídeo. S-Video só inclui sinal de vídeo. Para, além do vídeo, receber áudio, terá que ligar uma TV, um amplificador ou hi-fi a uma das saídas de áudio do descodificador. Informação adicional acerca de como ligar aparelhos adicionais de áudio digital ao descodificador pode ser encontrado na página 16.
+
+MEOBox Cisco KMM3000 - Encontre o conector S-Video:  O conector S-Video encontra-se abaixo do conector de vídeo composto no painel traseiro do descodificador entre as saídas de estéreo analógico e o botão de Reset.
+Use um cabo S-Video para ligar a saída S-Video do descodificador com a entrada da sua TV ou monitor. Use um cabo áudio RCA para ligar a saída áudio do seu descodificador com a sua TV, amplificador, hi-fi, ou similares.
+
+MEOBox Cisco KMM3000 - Utilizando os conectores de Áudio Digital:  Para a melhor qualidade áudio, ligue o descodificador a qualquer amplificador digital ou hi-fi digital. A ligação é feita com um cabo áudio coaxial ou óptico.
+
+MEOBox Cisco KMM3000 - Encontre os conectores de Áudio Digital: As saídas de áudio digital (coaxial e óptica) encontram-se no painel traseiro do descodificador, entre o botão de Reset e o conector USB.
+Ligue o seu cabo coaxial ou óptico directamente do seu sistema de áudio (hi-fi, amplificador ou similar) ao conector coaxial ou ao conector óptico do descodificador.
+
+MEOBox Cisco KMM3000 - Utilizando o comando:  O comando envia sinais infravermelhos para o descodificador. O sensor receptor destes sinais encontra-se na frente do descodificador. Aponte sempre o comando para a frente do equipamento.
+
+MEOBox Cisco KMM3000 - Usando o comando para controlar a TV:  Se quiser usar apenas um comando para controlar o descodificador e a TV, primeiro tem que programar o comando para a sua TV. Normalmente o comando pode detectar a sua TV automaticamente e sincronizar-se. Se este método automático não funcionar com a sua TV, pode programar manualmente o seu comando.
+
+MEOBox Cisco KMM3000 - Programação do Controlo Remoto:
+1. Ligue a TV.
+2. Pressione o botão no controlo remoto.
+3. Pressione “0 0 1” (LED “TV” pisca duas vezes para confirmação) - tem 10 segs para esta operação de introdução de código
+4. Direccione o controlo remoto para a TV. Pressione até a TV se desligar.
+Nota: Isto pode demorar alguns minutos, durante os quais o LED “TV” continuará a piscar.
+5. Confirme a selecção pressionando
+6. Pressione para ligar novamente a TV.
+7. Verifique que o controlo remoto funciona correctamente mudando o nível de som.
+Notas:
+- Se não conseguir mudar o nível de som, repita esta operação. De cada tentativa, o comando tentará uma nova frequência.
+- Se não conseguir finalizar a programação, tente programar manualmente.
+
+MEOBox Cisco KMM3000 - Programação Manual: Introduzindo o código da marca
+1. Verifique qual o fabricante da sua TV. O mesmo código pode ser usado por vários fabricantes.
+2. Pressione o botão TV no comando remoto.
+3. Introduza o código de três digitos correspondentes à marca da sua TV. O LED “TV” irá piscar duas vezes para confirmar a selecção.
+4. Direccione o controlo remoto para a sua TV. Pressione até que a sua TV se desligue.
+Nota: Esta operação poderá demorar alguns segundos durante os quais o LED “TV” irá piscar.
+5. Se a sua TV se desligar, volte a ligar e verifique se outras funções também funcionam. Se as outras funções estiverem a funcionar correctamente terminou a programação manual. Caso contrário, repita as operações desde o ponto 2
+Nota: Escreva a marca do código que funciona com a sua TV neste manual, para que a possa encontrar mais rapidamente no futuro.
+
+MEOBox Cisco KMM3000 - Reset ao descodificador:
+O botão de Reset reinicia o aparelho e repõe todas as configurações originais de fábrica tanto do utilizador como de rede. O botão de Reset encontra-se no painel traseiro do descodificador próximo das saídas de áudio digital.
+Para fazer reset ao descodificador:
+1. Carregue no botão de reset durante 5 segundos.
+2. Na TV, aparecerá uma mensagem relativa à função de reset.
+3. Siga as instruções que aparecerem na TV.
+
+MEOBox Cisco KMM3000 - O menu de TV do KMM3000
+Acedendo ao menu principal:
+1. Verifique que o descodificador está ligado.
+2. Carregue em no comando para ligar a TV. O comando deve estar em modo TV. Se não tiver programado o comando, use o botão de On/Off no comando da sua TV ou o botão de ligar da TV para a ligar.
+3. Carregue em para trocar para o canal AV correcto. O menu principal só funciona no canal AV seleccionado.
+4. Carregue em para trocar para modo de descodificador. Agora pode controlar o seu descodificador com o comando (apenas depois da programação).
+5. Carregue em para aceder ao menu de TV.
+
+MEOBox Cisco KMM3000 - Menus de navegação:
+1. Carregue em para aceder ao menu de TV. Com as setas, pode navegar pelos items de um menu.
+2. Confirme a selecção de um item carregando em.
+3. Com as setas navega pelos items individuais de um menu.
+4. Carregue em para confirmar a escolha de um item ou dados num campo.
+Para mais informações sobre a utilização do serviço, consulte o guia de utilização do serviço.
+
+MEOBox Cisco KMM3000 - Pondo o descodificador e a TV em modo Standby: 
+1. Carregue em para fechar o menu de TV. Irá ver o canal de TV actual.
+2. Carregue em para mudar o descodificador para modo standby de poupança de energia. O mostrador LED na frente do KMM3000 indicará quando o descodificador estiver em modo standby.
+3. Carregue em para trocar para modo TV.
+4. Carregue em para mudar a sua TV para modo standby. Se não tiver programado o comando para funcionar com a sua TV, use o botão On/Off do comando da sua TV ou botão de ligar da TV para a desligar.
+
+MEOBox Cisco KMM3000 - Os LED no painel frontal não ligam; sem energia eléctrica - O cabo de corrente eléctrica poderá não estar ligado correctamente -- Ligue o cabo de corrente eléctrica correctamente.
+
+MEOBox Cisco KMM3000 - Não tem imagem na sua TV - O equipamento está em modo “Standby” -- Ligue o equipamento pressionado o botão “On” ou o botão no controlo remoto; OU - Não existe ligação entre o equipamento e a TV por cabo SCART -- Ligue o cabo SCART correctamente.
+
+MEOBox Cisco KMM3000 - Não tenho som - O cabo de áudio não está correctamente ligado -- Verifique o cabo de áudio; OU - O volume está no nível 0 -- Aumente o som; OU - O volume está desligado -- Pressione para religar o volume.
+
+MEOBox Cisco KMM3000 - O controlo remoto não funciona - O controlo remoto não está direccionado para o equipamento -- Direccione o controlo remoto para o painel frontal do equipamento; OU As pilhas estão sem carga ou estão colocadas incorrectamente -- Substitua as pilhas ou coloque-as de forma correcta.
+
+MEOBox Cisco KMM3000 - Os filmes do Vídeo Clube têm fraca qualidade de imagem - Estão protegidos por cópia e a ligação à TV passa por um DVD ou VCR -- Ligue a TV directamente ao equipamento.
+
+MEOBox Cisco KMM3000 - Apoio ao cliente: Caso tenha questões técnicas relativas ao descodificador, por favor contacte o apoio da PT Comunicações através do número 16 209.
+
+MEOBox Cisco KMM3000 - Cuidados e manutenção: O seu KMM3000 não necessita de qualquer manutenção. Para limpar o equipamento, limpe a tampa do KMM3000 com um pano húmido, ou um pano anti-estática. Use sempre um pano que esteja só ligeiramente húmido.
+Atenção! Evite panos secos ou molhados! Evite solventes, detergentes ou abrasivos! Podem danificar o KMM3000.

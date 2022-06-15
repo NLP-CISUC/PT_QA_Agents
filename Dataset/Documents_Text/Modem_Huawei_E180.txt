@@ -1,0 +1,333 @@
+Modem Huawei E180 - Descrição da interface gráfica da Gestão do Terminal - Iniciar a Gestão do Terminal: Para iniciar o programa, faça duplo clique no ícone de atalho de Gestão do Terminal, no ambiente de trabalho.
+Nota:
+- Sempre que lhe for solicitada a introdução do número de identificação pessoal (PIN), digite o PIN correcto e clique em OK. Se não introduzir correctamente o código PIN ou o código de desbloqueio (PUK), as funções relacionadas com a rede poderão ficar indisponíveis.
+- Contacte o seu fornecedor de serviços para verificar se necessita de um cartão SIM (módulo de identificação de assinante) / cartão USIM UMTS (módulo de identificação de assinante do sistema universal de telecomunicações móveis).
+- O cartão SIM/USIM é fornecido pelo fornecedor de serviços. Para detalhes, contacte o seu fornecedor de serviços.
+
+Modem Huawei E180 - Descrição da interface gráfica da Gestão do Terminal - Descrição geral da interface:
+Sinal de rede: Indica a força do sinal da rede;
+Informação da rede: Apresenta o perfil da rede actual.
+Mensagem nova: Se o aviso de mensagem de texto estiver activo, quando é recebida uma nova mensagem o ícone carta pisca na barra de estado e o canto inferior direito do ecrã do computador apresenta a caixa de diálogo Aviso.
+Mensagem não lida: Quando existe uma mensagem não lida o ícone carta pisca na barra de estado e quando move o cursor para o ícone, é apresentado o número de mensagens não lidas.
+Ligação de rede: A informação sobre a ligação de rede é a rede está ligada ou a rede não está ligada.
+Dados transferidos: O descarregamento de dados está em curso ou o carregamento de dados está em curso.
+
+Modem Huawei E180 - Serviços de Internet - Acesso à Internet: Depois de configurar os perfis de rede e de ligação, poderá aceder à rede através da Gestão do Terminal. Para aceder à Internet, siga os passos seguintes:
+1. Clique em símbolo;
+2. Seleccione o perfil correcto na lista pendente;
+3. Clique em Ligar para estabelecer a ligação;
+4. Inicie o navegador Web no computador para aceder à Internet.
+Nota:
+- Quando a ligação é estabelecida, a interface principal apresenta os detalhes da rede actual que incluem a duração da ligação, estatísticas de dados e taxa de transferência.
+- Quando a ligação é estabelecida, escolha Desligar para desligar a rede.
+
+Modem Huawei E180 - Serviços de Internet - Informação estatística: Pode utilizar a função Estatísticas para verificar o tráfico da rede. 
+
+Modem Huawei E180 - Visualizar a Informação Estatística: Para visualizar a informação estatística, siga os passos seguintes:
+1. Clique no símbolo do computador com gráfico de barras para apresentar a interface das estatísticas; 
+2. Na árvore de navegação, clique nos separadores seguintes para apresentar o diagrama
+correspondente.
+- Transferência: Para visualizar os dados e velocidade de descarregamento/carregamento da ligação actual.
+- Estatísticas: Para visualizar a duração da ligação actual, a data da última reinicialização e o volume de dados carregados e descarregados diária, mensal e anualmente.
+Nota: Os dados estatísticos do tráfego são meramente indicativos. A informação de tráfego real é contabilizada com base nos dados de tráfego recolhidos pelo operador.
+
+Modem Huawei E180 - Reinicialização da informação estatística: Para reiniciar a informação estatística, siga os passos seguintes:
+1. Na árvore de navegação, clique com o botão direito do rato num separador;
+2. Escolha Repor as estatísticas;
+3. Na caixa de diálogo Confirmar, clique em Sim.
+
+Modem Huawei E180 - Serviços SMS: A Gestão do Terminal fornece serviços SMS. A caixa de correio local armazena as mensagens sem qualquer limite de capacidade e as mensagens podem ser geridas facilmente.
+
+Modem Huawei E180 - Serviços SMS - Criar e enviar uma mensagem:
+1. Clique no símbolo mensagens para apresentar a interface Texto;
+2. Clique no símbolo carta azul para apresentar a interface Nova;
+3. Digite o número do destinatário, escolhendo uma das seguintes opções:
+- Clique em Enviar para… Depois seleccione um número de telefone na interface
+Seleccionar número;
+- Digite o número do destinatário directamente.
+4. Escreva o conteúdo da mensagem;
+5. Após editar o conteúdo, escolha as seguintes opções:
+- Clique em Enviar: Para enviar a mensagem.
+- Clique em Guardar: Para guardar a mensagem como um rascunho.
+- Clique em Fechar: Para sair da mensagem actual. Se clicar em Sim na caixa de diálogo Confirmar, a mensagem será guardada em Rascunho.
+Nota: Pode enviar uma mensagem de grupo, contendo até 20 números de telefone. Cada número deverá ser separado por ";". Pode introduzir até 2048 caracteres numa mensagem de cada vez.
+
+Modem Huawei E180 - Serviços SMS - Mensagens recebidas: A pasta Mensagens recebidas armazena as mensagens recebidas. Para apresentar a interface Mensagens recebidas, siga os passos seguintes:
+1. Clique no símbolo mensagens para apresentar a interface Texto;
+2. Escolha Local > Recebidas para apresentar a interface Mensagens recebidas. 
+
+Modem Huawei E180 - Procurar uma mensagem: Clique em lupa. Em seguida, introduza o nome/número de telefone do remetente da mensagem, uma parte do conteúdo da mensagem ou a data da recepção da mensagem.
+Nota: Pode introduzir parte do conteúdo da mensagem a procurar. Ao procurar uma mensagem, a lista de mensagens correspondentes é actualizada automaticamente de acordo com a informação introduzida. São apresentados os contactos correspondentes no grupo procurado. Não será apresentado qualquer resultado se não for encontrada uma mensagem correspondente.
+
+Modem Huawei E180 - Visualizar uma mensagem: Para visualizar uma mensagem na pasta Mensagens recebidas, siga os passos seguintes:
+1. Aceda à interface Texto e seleccione a mensagem que deseja ler;
+2. Clique na mensagem seleccionada. O nome e o número de telefone do remetente da mensagem, o conteúdo da mensagem e a data de recepção são apresentados abaixo da lista de mensagens;
+3. Clique com o botão direito do rato na mensagem seleccionada para obter as seguintes
+opções:
+- Editar: Reedita a mensagem.
+- Responder: Na interface Editar, reedite a mensagem e envie-a ao remetente da mensagem.
+- Reencaminhar: Para reencaminhar a mensagem para outra pessoa.
+- Guardar número: Na interface Novo contacto, introduza outras informações (incluindo nome do contacto, número de telefone de casa, número de telefone do escritório, endereço electrónico e comentários) e guarde o contacto.
+- Eliminar: Apaga a mensagem.
+- Eliminar todas: Apaga todas as mensagens da pasta Mensagens recebidas.
+Nota: Pode pressionar e manter pressionadas as teclas Shift ou Ctrl e clicar nas mensagens seleccionadas; ou pode pressionar Ctrl+A para seleccionar todas as mensagens da lista. As mensagens apagadas da pasta Mensagens recebidas são armazenadas na
+pasta Apagadas. Apenas pode reencaminhar uma mensagem de cada vez. 
+Também pode clicar nos ícones de atalho apresentados acima da lista de mensagens para
+efectuar as seguintes operações:
+- Responder à mensagem seleccionada;
+- Reencaminhar a mensagem seleccionada;
+- Apagar a mensagem seleccionada.
+
+Modem Huawei E180 - Serviços SMS - Mensagens Enviadas: A pasta Enviadas armazena as mensagens enviadas, incluindo as mensagens que foram enviadas com sucesso ou não. Para apresentar a interface enviadas, siga os passos seguintes:
+1. Clique no símbolo mensagens para apresentar a interface Texto;
+2. Escolha Local > Pasta enviadas para apresentar a interface Pasta enviadas.
+Nota: Para detalhes, consulte Mensagens recebidas.
+
+Modem Huawei E180 - Serviços SMS - Importante, Rascunhos, Eliminadas e Relatórios: Em Importante são armazenadas as suas mensagens importantes. Em Rascunhos são armazenados os rascunhos das mensagens não enviadas. Em Eliminadas são armazenadas as mensagens apagadas da sua caixa de correio local. Em Relatórios são armazenadas as notificações de envio recebidas quando as mensagens são entregues.
+Nota: Para detalhes, consulte Mensagens recebidas. A pasta Apagadas não armazena as mensagens apagadas do cartão SIM/USIM. Se apagar as mensagens da pasta Apagadas, as mensagens serão apagadas permanentemente. Seja cauteloso quando executar esta operação.
+
+Modem Huawei E180 - Serviços SMS - Visualizar uma mensagem do cartão SIM/USIM: Se utilizar um cartão SIM/USIM no terminal, pode guardar as mensagens enviadas e recebidas no cartão SIM/USIM.
+As mensagens guardadas no cartão SIM/USIM podem ser geridas da mesma forma que as mensagens na sua caixa de mensagens local. Para detalhes, consulte “Mensagens recebidas”.
+Nota:
+- Contacte o seu fornecedor de serviços para verificar se é necessário um cartão SIM/USIM.
+- O cartão SIM/USIM é fornecido pelo fornecedor de serviços. Para detalhes, contacte o seu fornecedor de serviços.
+- Se o terminal não necessitar de um cartão SIM/USIM, poderá guardar as mensagens enviadas e recebidas no terminal. As mensagens guardadas no terminal podem ser geridas da mesma forma que as mensagens no seu cartão SIM/USIM.
+
+Modem Huawei E180 - Pode mover uma mensagem do cartão SIM/USIM para a sua pasta de mensagens recebidas local ou para a pasta de mensagens enviadas local:
+1. Clique no símbolo mensagens para apresentar a interface Texto;
+2. Clique no separador SIM/USIM;
+3. Seleccione um ou mais contactos da sua lista de contactos;
+4. Clique com o botão direito do rato nas mensagens seleccionadas para obter as seguintes opções: 
+- Mover para Local: Transfere as mensagens seleccionadas do cartão SIM/USIM para a pasta Local.
+- Mover todas para Local: Transfere as todas mensagens seleccionadas do cartão SIM/USIM para a caixa Local. 
+5. Na caixa de diálogo Confirmar, clique em OK.
+Nota: Se transferir as mensagens do cartão SIM/USIM para a caixa Local, as mensagens serão apagadas do cartão SIM/USIM. As mensagens recebidas do cartão SIM/USIM são movidas para a pasta recebidas local e as mensagens enviadas do cartão SIM/USIM são movidas para a pasta enviadas local.
+
+Modem Huawei E180 - Serviços SMS - Definições das mensagens de texto: Seleccione Ferramentas > Opções e clique na pasta Mensagem de texto.
+
+Modem Huawei E180 - Definições dos alertas de texto: Pode seleccionar avisos instantâneos visuais ou de áudio.
+Apresentar uma notificação quando chega uma nova mensagem de texto: Quando é recebida uma nova mensagem de texto, é apresentada uma caixa de diálogo. Pode:
+- Clique em Ver para visualizar a nova mensagem.
+- Clicar em Fechar para ver a mensagem mais tarde.
+Reproduzir um som quando chega uma nova mensagem de texto: Pode efectuar as seguintes operações:
+- Clique em Procurar para seleccionar um ficheiro de som de mensagem de texto.
+- Clique em Testar para reproduzir o som de mensagem de texto, clique em Parar para parar a reprodução do som de mensagem de texto.
+Quando é recebida uma nova mensagem, é reproduzido o som de mensagem de texto seleccionado.
+Nota: O som de mensagem de texto pode ser um ficheiro *.wav ou *.mid.
+
+Modem Huawei E180 - Definir o número do centro de mensagens e o período de validade das mensagens: A informação sobre o número do centro de mensagens é fornecida com o cartão SIM/USIM. Quando é inserido o cartão SIM/USIM, a informação é modificada automaticamente. Se não existir qualquer informação ou se a informação for apagada por engano, contacte o seu fornecedor de serviços.
+O período de validade das mensagens é período durante o qual as mensagens são armazenadas no centro de mensagens, por exemplo 12 horas, 24 horas, 30 dias e Máximo.
+
+Modem Huawei E180 - Pedir um relatório de entrega: Pode seleccionar Pedir relatório de entrega para activar a função de relatório de entrega. Quando esta função está activa, a rede pode entregar um relatório de estado da mensagem enviada.
+
+Modem Huawei E180 - Lista telefónica: Pode gerir de uma forma prática os contactos da lista telefónica utilizando a Gestão do Terminal.
+
+Modem Huawei E180 - Lista telefónica - Gestão da lista telefónica na pasta local: Para aceder à lista telefónica local, siga os passos seguintes:
+1. Clique no símbolo contactos para apresentar a interface Lista telefónica;
+2. Clique em Local na árvore de navegação.
+
+Modem Huawei E180 - Criar um contacto:
+1. Clique no símbolo folha de papel para apresentar a interface Novo contacto;
+2. Introduza a informação;
+3. Clique em OK para guardar o contacto.
+Nota: A informação do contacto não pode estar vazia nem conter apenas espaços ou caracteres de avanço de linha.
+
+Modem Huawei E180 - Procurar um contacto: Clique no símbolo lupa, em seguida, introduza a informação do contacto.
+Nota:
+- Pode introduzir qualquer parte da informação do contacto a procurar. São suportados todos os campos de informação do contacto.
+- Quando procura um contacto, a lista de contactos é actualizada automaticamente de acordo com a informação introduzida. São apresentados os contactos correspondentes no grupo procurado. Se não for encontrado um contacto, não será apresentado qualquer resultado.
+
+Modem Huawei E180 - Visualizar um contacto: Para visualizar um contacto, siga os passos seguintes:
+1. Aceda à lista telefónica local e seleccione o contacto que deseja visualizar;
+2. Clique na mensagem seleccionada. O nome do contacto, o número de telemóvel, o número do telefone do escritório, o número do telefone de casa e os comentários são apresentados a seguir à lista de contactos;
+3. Clique com o botão direito do rato na mensagem seleccionada para obter as seguintes
+opções:
+- Editar contacto: Altera a informação do contacto.
+- Eliminar contacto: Apaga o contacto.
+- Enviar: Envia uma mensagem de visita para o número de telemóvel do contacto.
+Também pode clicar nos ícones de atalho apresentados acima da lista de contactos para efectuar as seguintes operações:
+- Editar o contacto seleccionado.
+- Apagar o contacto seleccionado.
+- Enviar uma mensagem de visita para o número de telemóvel do contacto.
+
+Modem Huawei E180 - Criar um grupo de contactos: Pode criar um grupo para gerir os contactos locais por categoria.
+1. Clique com o botão direito do rato em Local na árvore de navegação e escolha Novo grupo;
+2. Introduza o nome do grupo.
+Nota: O nome do grupo não pode estar vazio nem ser idêntico a um grupo existente. Apenas pode gerir contactos locais por grupo.
+
+Modem Huawei E180 - Modificar um nome de grupo de contactos:
+1. Seleccione o grupo para modificar o nome;
+2. Clique com o botão direito do rato no grupo seleccionado na árvore de navegação e
+escolha Mudar nome do grupo;
+3. Introduza o novo nome do grupo.
+Nota: Não pode mudar o nome dos dois grupos predefinidos, Local e Cartão SIM/USIM.
+
+Modem Huawei E180 - Adicionar um contacto a um grupo de contactos: Para adicionar um contacto da pasta Local a outro grupo, siga os passos seguintes:
+1. Seleccione um ou mais contactos da pasta Local;
+2. Arraste os contactos seleccionados para outro grupo.
+Nota: Quando arrastar os contactos seleccionados, prima Ctrl para copiá-los para outro grupo; caso contrário, serão movidos para o outro grupo.
+Para adicionar um contacto a um grupo, siga os passos seguintes:
+1. Seleccione um grupo na árvore de navegação;
+2. Clique no símbolo folha de papel ou clique com o botão direito do rato sobre a lista de contactos e escolha Novo contacto;
+3. Introduza a informação.
+
+Modem Huawei E180 - Remover um contacto de um grupo de contactos:
+1. Aceda à lista de contactos de um grupo;
+2. Seleccione um contacto a remover;
+3. Clique com o botão direito do rato no contacto seleccionado e escolha Remover do grupo.
+Nota: O contacto é removido do grupo, mas não é apagado.
+
+Modem Huawei E180 - Apagar um grupo de contactos
+1. Clique com o botão direito do rato num grupo na árvore de navegação e escolha Eliminar grupo;
+2. Clique em OK.
+Nota: Quando apaga um grupo, os contactos desse grupo não podem ser apagados. Os contactos permanecem na lista telefónica da pasta Local ou em outros grupos.
+
+Modem Huawei E180 - Lista telefónica - Gestão da lista telefónica no cartão SIM/USIM: Pode guardar contactos no cartão SIM/USIM. Os contactos guardados no terminal podem ser geridos da mesma forma que os contactos no seu cartão SIM/USIM. Para detalhes, consulte “Gestão da lista telefónica na pasta Local”.
+Nota:
+- Contacte o seu fornecedor de serviços para verificar se é necessário um cartão SIM/USIM.
+- O cartão SIM/USIM é fornecido pelo fornecedor de serviços. Para detalhes, contacte o seu fornecedor de serviços.
+- Se o terminal não necessitar de um cartão SIM/USIM, poderá guardar os contactos no terminal. Os contactos guardados no terminal podem ser geridos da mesma forma que os contactos no seu cartão SIM/USIM.
+
+Modem Huawei E180 - Lista telefónica - Importar/exportar: Pode exportar os contactos da pasta Local ou do cartão SIM/USIM para um ficheiro *.csv, bem como importar contactos de um ficheiro *.csv para a lista telefónica da pasta Local ou do cartão SIM/USIM.
+Nota: Na lista telefónica local, seleccione um ou mais contactos. Arraste os contactos do cartão SIM/USIM na árvore de navegação. Em seguida, os contactos são exportados para a lista telefónica do cartão SIM/USIM.
+
+Modem Huawei E180 - Importar contactos: Pode importar contactos de um ficheiro *.csv para a lista telefónica local ou para o cartão SIM/USIM.
+1. Clique em contactos para apresentar a interface Lista telefónica;
+2. Clique em Local ou SIM/USIM na árvore de navegação;
+3. Clique com o botão direito do rato na lista de contactos e escolha Importar contactos;
+4. Escolha um ficheiro para importar os contactos. Clique em Abrir para apresentar a interface Mapa;
+5. Arraste o valor no ficheiro que corresponde ao campo na direita;
+6. Clique em OK.
+Nota: O número máximo de contactos que podem ser guardados no cartão SIM/USIM está sujeito à capacidade do cartão utilizado. Quando importa contactos para o cartão SIM/USIM, se a sua capacidade for atingida, a importação pára automaticamente. O conteúdo dos contactos importados não é afectado.
+
+Modem Huawei E180 - Exportar contactos: Pode exportar contactos da lista telefónica local e cartão SIM/USIM. Os contactos exportados apenas podem ser guardados num ficheiro *.csv. 
+1. Clique em contactos para apresentar a interface Lista telefónica;
+2. Clique em Local ou SIM/USIM na árvore de navegação;
+3. Seleccione uma das seguintes operações:
+- Clique com o botão direito do rato na lista de contactos e escolha Exportar todos os contactos.
+- Seleccione um ou mais contactos e clique com o botão direito do rato para seleccionar Exportar contactos seleccionados.
+4. Seleccione o caminho para guardar os contactos;
+5. Introduza o nome do ficheiro e clique em Guardar.
+Nota: Pode premir e manter premidas as teclas Shift ou Ctrl e clicar nos contactos seleccionados; ou premir Ctrl+A para seleccionar todos os contactos da lista.
+
+Modem Huawei E180 - Definições e consulta de informação - Mudar de idioma: A Gestão do Terminal disponibiliza vários idiomas de interface. Durante a instalação do software, pode escolher Ferramentas > Idioma para mudar de idioma.
+
+Modem Huawei E180 - Definições e consulta de informação - Operações com PIN: Se utilizar um cartão SIM/USIM no terminal, o código do número de identificação pessoal (PIN) protege o seu cartão de utilizações não autorizadas. Pode alterar o código PIN e activar/desactivar a verificação do PIN.
+Nota: O código PIN e o código de desbloqueio (PUK) são fornecidos com o cartão SIM/USIM. Para detalhes, contacte o seu fornecedor de serviços.
+
+Modem Huawei E180 - Activar/desactivar a verificação do PIN: Pode activar a verificação do PIN. Se estiver activa, necessita de verificar o código PIN quando inicia novamente a Gestão do Terminal.
+- Para activar: Escolha Ferramentas > Operações com PIN > Activar verificação de PIN.
+- Para desactivar: Escolha Ferramentas > Operações com PIN > Desactivar verificação de PIN.
+
+Modem Huawei E180 - Modificar o código PIN:
+1. Escolha Ferramentas > Operações com PIN > Modificar PIN;
+2. Na caixa de diálogo Modificar PIN, introduza o código PIN actual e o novo código PIN;
+3. Introduza novamente o novo código PIN;
+4. Clique em OK para concluir a alteração.
+Nota: O código PIN deverá ser uma cadeia numérica de 4 a 8 dígitos.
+
+Modem Huawei E180 - Introduzir o código PIN: Quando a verificação do PIN está activa, necessita de introduzir o código PIN correcto para utilizar as funções relacionadas com a rede.
+1. Após iniciar a Gestão do Terminal, é apresentada a caixa de diálogo Introduza PIN;
+2. Introduza o código PIN correcto;
+3. Clique em OK para concluir a verificação.
+Nota: Se introduzir o código PIN errado um número de vezes predefinido, o cartão SIM/USIM será bloqueado e não poderá utilizá-lo sem digitar o código PUK. A Gestão do Terminal apresenta o número de tentativas restantes para introduzir o código PIN ou o código PUK. Quando o cartão SIM/USIM é bloqueado, pode, contudo, ligar para números de emergência.
+
+Modem Huawei E180 - Desbloquear o PIN:
+1. Quando o cartão SIM/USIM é bloqueado, a caixa de diálogo Desbloquear PIN é apresentada depois de ter iniciado a Gestão do Terminal;
+2. Introduza o código PUK correcto;
+3. Introduza o novo código PIN;
+4. Clique em OK para completar a alteração.
+
+Modem Huawei E180 - Definições e consulta de informação - Escolher um dispositivo: A Gestão do Terminal pode suportar diferentes produtos terminais. Quando a Gestão do Terminal é iniciada, procura automaticamente terminais correspondentes. Se forem encontrados um ou mais terminais, os terminais ligados são apresentados na interface Escolher dispositivo. Escolha o terminal a executar e clique em OK. Se estiverem ligados ao computador um ou mais terminais suportados, pode mudar ou escolher um dispositivo quando executar a Gestão do Terminal.
+1. Escolha Ferramentas > Escolher dispositivo;
+2. Seleccione um dispositivo na lista de dispositivos;
+3. Clique em OK para fechar o terminal actual e mudar para o terminal seleccionado.
+
+Modem Huawei E180 - Definições e consulta de informação - Visualizar informação de diagnóstico: Escolha Ferramentas > Diagnósticos para visualizar informação da Gestão do Terminal e cartão SIM/USIM, bem como o número de mensagens e contactos guardados no cartão SIM/USIM, versão de firmware, versão de hardware e número IMSI (identificador internacional de assinante móvel).
+Nota: O número de mensagens/contactos guardados no cartão SIM/USIM é apresentado como XX/YY. XX corresponde ao número de mensagens/contactos e YY à capacidade do cartão SIM/USIM. A informação de diagnóstico está sujeita ao tipo de terminal utilizado.
+
+Modem Huawei E180 - Definições e consulta de informação - Definições de arranque: Pode configurar a Gestão do Terminal para ser automaticamente iniciada ao iniciar o Windows e para minimizar a interface depois do arranque.
+1. Escolha Ferramentas > Opções;
+2. Clique em Geral na árvore de navegação;
+3. Pode escolher as seguintes opções:
+- Seleccione Iniciar no arranque do Windows: A Gestão do Terminal é automaticamente iniciada com o Windows.
+- Seleccione Minimizar janela no arranque: A interface da Gestão do Terminal é automaticamente minimizada depois de a Gestão do Terminal ter sido iniciada.
+4. Clique em OK para guardar as definições.
+
+Modem Huawei E180 - Definições e consulta de informação - Definições de rede: Para apresentar a interface Rede, siga os passos seguintes:
+1. Escolha Ferramentas > Opções;
+2. Na árvore de navegação, clique em Rede.
+
+Modem Huawei E180 - Seleccionar um tipo de rede: Pode seleccionar diferentes tipos de rede para procurar e aceder à rede.
+1. Clique no separador Tipo de rede;
+2. Na caixa de combinação pendente Tipo de rede, seleccione o tipo de rede correspondente;
+3. Na lista pendente Banda, seleccione a banda de frequência correspondente;
+4. Clique em Aplicar;
+5. Clique em OK para guardar e activar as definições.
+
+Modem Huawei E180 - Seleccionar um modo de registo: Pode configurar o modo de procura e registo depois de seleccionar o tipo de rede.
+1. Clique no separador Modo de registo;
+2. Seleccione Procura e registo automáticos ou Procura e registo manuais.
+
+Modem Huawei E180 - Procura e registo automáticos: Quando selecciona Procura e registo automáticos, o produto terminal pode procurar e registar-se automaticamente numa rede fornecida.
+
+Modem Huawei E180 - Procura e registo manuais
+1. Seleccione Procura e registo manuais;
+2. Clique em Actualizar;
+3. Seleccione o nome do operador na lista;
+4. Clique em Registar.
+
+Modem Huawei E180 - Definições e consulta de informação - Definições do perfil de ligação: Para apresentar a interface Acesso telefónico, siga os passos seguintes:
+1. Escolha Ferramentas > Opções;
+2. Na árvore de navegação, clique em Gestão de perfil;
+3. Clique no separador Acesso telefónico.
+Nota: Para detalhes sobre as definições do perfil, contacte o seu fornecedor de serviços.
+
+Modem Huawei E180 - Criar um perfil de acesso telefónico:
+1. Clique em Novo para configurar o nome do perfil, o número de acesso, o nome de utilizador, a palavra-passe, o nome do ponto de acesso (APN) e o estado do APN e seleccione um dispositivo predefinido;
+2. Clique em Avançadas para configurar a informação de IP, protocolo de  autenticação,servidor de nome de domínio (DNS) e serviço de nomenclatura Internet do Windows (WINS);
+3. Clique em OK para guardar as definições avançadas e regressar à interface Acesso
+telefónico;
+4. Clique em OK para ver a caixa de diálogo Aviso;
+5. Clique em Sim para guardar as definições ou em Não para cancelar as definições.
+
+Modem Huawei E180 - Editar um perfil de acesso telefónico:
+1. Na caixa de combinação pendente Nome do perfil, seleccione uma definição.
+2. Clique em Editar para alterar o nome do perfil, o número de acesso, o nome de utilizador, a palavra-passe, o nome APN e estado do APN e seleccione um
+dispositivo predefinido.
+3. Clique em Avançadas para configurar a informação de IP, protocolo de autenticação e WINS.
+4. Clique em OK para guardar as definições avançadas e regressar à interface Acesso telefónico.
+5. Clique em OK para ver a caixa de diálogo Aviso.
+6. Clique em Sim para guardar as definições ou em Não para cancelar as alterações.
+
+Modem Huawei E180 - Apagar um perfil de acesso telefónico:
+1. Na caixa de combinação pendente Nome do perfil, seleccione uma definição.
+2. Clique em Apagar para ver a caixa de diálogo Aviso.
+3. Clique em Sim para apagar a definição ou em Não para cancelar a eliminação.
+
+Modem Huawei E180 - Importar um perfil de acesso telefónico:
+1. Clique em Importar para ver a interface Importar.
+2. Pode escolher as seguintes opções:
+- Seleccione o(s) operador(es) de rede 3G/GPRS na lista.
+- Clique em Procurar e escolha um ficheiro *. prof para importar. Depois, clique em Abrir.
+3. Na interface Importar, clique em OK.
+
+Modem Huawei E180 - Exportar um perfil de acesso telefónico
+1. Clique em Exportar para ver a interface Exportar.
+2. Seleccione um ou mais operadores de rede e clique em OK.
+3. Seleccione o caminho para guardar o ficheiro e introduza o nome do ficheiro. Depois, clique nem Guardar.
+Nota: O perfil de acesso telefónico do operador seleccionado é exportado para um ficheiro *. prof (um ficheiro de configuração).
+
+Modem Huawei E180 - Perguntas frequentes - Que devo fazer se não conseguir aceder à Internet?
+1. Verifique a força do sinal de rede.
+2. Verifique se activou o serviço online sem fios. Poderá solicitar ao operador de rede
+local informações sobre como activar o serviço.
+3. Se o serviço em linha sem fios está activo, verifique as definições da rede de acordo
+com as instruções em Serviços de Internet.
+
+Modem Huawei E180 - Perguntas frequentes - Por que razão apenas parte do conteúdo colado é apresentado
+durante a edição? Quando editar uma mensagem, pode introduzir um máximo de 2048 caracteres. Se o número de caracteres da informação colada exceder o limite, os caracteres a mais serão apagados automaticamente.
+
+Modem Huawei E180 - Perguntas frequentes - Por que não é apresentado um aviso instantâneo quando é recebida uma mensagem? O aviso visual de mensagens não se encontra definido. Escolha Ferramentas > Opções > Texto. Na área de Tratamento de mensagens de texto, seleccione Apresentar uma notificação quando chega uma nova mensagem de texto.
+
+Modem Huawei E180 - Perguntas frequentes - Por que razão o número de telefone não pode ser colado? Um número de telefone válido apenas pode conter “0123456789#*+". Confirme se existem quaisquer outros caracteres no texto cortado ou copiado.
