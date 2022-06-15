@@ -1,3 +1,0 @@
-Router FiberGateway - Routers de acesso ao serviço de Internet Fixa - Routers para serviços MEO Fibra e serviços MEO ADSL com TV.
-
-Router FiberGateway - Características: Suporte para a norma WiFi 802.11ac - 4 antenas internas, Tecnologia MU-MIMO, Beamforming, Débito físico até 1.7 Gbps (433,3 Mbps x 4) Largura de banda 80 MHz, Suporte para 160 MHz – 80 x 2, ac wave2; 4 interfaces LAN Gigabit; ONT integrado; 1 interface USB; Botão de ligar/desligar; Botão WPS; consulte o manual do utilizador.
