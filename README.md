@@ -52,3 +52,19 @@ This index then returns an ordered list of of approximate nearest neighbors in s
 *Implemented for FAQs.*
 
 To test the different implementations, two datasets are also included in this repository. One contains a list of FAQs and the other a collection of plain text documents.
+
+# How to cite
+
+<pre>
+@inproceedings{goncalo-oliveira_etal:slate2022,
+	address = {Dagstuhl, Germany},
+	author = {Gon\c{c}alo Oliveira, Hugo and In\'{a}cio, Sara and Silva, Catarina},
+	booktitle = {Proceedings of 11th Symposium on Languages, Applications and Technologies (SLATE 2022)},
+	editor = {Cordeiro, Jo\~{a}o and Pereira, Maria Jo\~{a}o and Rodrigues, Nuno F. and Pais, Sebasti\~{a}o},
+	pages = {19:1--19:11},
+	publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+	series = {Open Access Series in Informatics (OASIcs)},
+	title = {{Analysing Off-The-Shelf Options for Question Answering with Portuguese FAQs}},
+	volume = {104},
+	year = {2022}}
+</pre>
